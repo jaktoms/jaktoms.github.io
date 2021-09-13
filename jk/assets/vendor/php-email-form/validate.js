@@ -10,6 +10,7 @@
 
   forms.forEach( function(e) {
     e.addEventListener('submit', function(event) {
+      return;
       event.preventDefault();
 
       let thisForm = this;
@@ -77,9 +78,9 @@
   }
 
   function displayError(thisForm, error) {
-    thisForm.querySelector('.loading').classList.remove('d-block');
-    thisForm.querySelector('.error-message').innerHTML = error;
-    thisForm.querySelector('.error-message').classList.add('d-block');
+    // thisForm.querySelector('.loading').classList.remove('d-block');
+    // thisForm.querySelector('.error-message').innerHTML = error;
+    // thisForm.querySelector('.error-message').classList.add('d-block');
   }
 
 })();

@@ -83,9 +83,8 @@ h1, h2, h3, h4, h5, h6 {
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(238, 255, 0, 0.8);
 }
-
 #header h2 span {
   color: #fff;
   border-bottom: 2px solid #18d26e;
@@ -127,7 +126,7 @@ h1, h2, h3, h4, h5, h6 {
   #header h2 {
     font-size: 13px;
     line-height: 30px;
-  }
+      }
   #header .social-links {
     margin-top: 15px;
   }
