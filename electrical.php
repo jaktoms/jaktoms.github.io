@@ -1,0 +1,303 @@
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+<title>
+	Electrical - My Favourite Subject
+	</title><link href="styles.css" type="text/css" rel="stylesheet" /></head>
+<body style="background-color: #000000" link="#000000">
+          <center>
+
+        <table cellpadding=5 cellspacing=0 bgcolor=#000000 height="1" width='841' style="border-collapse: collapse">
+        <tr bgcolor=white>
+        <td width='181' valign=TOP bgcolor="#000000" height="1">
+            <p style="margin-top: 0; margin-bottom: 0">
+            <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+ WIDTH=169 HEIGHT=161>
+ <PARAM NAME=movie VALUE="images/laser.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000> 
+              <EMBED src="images/laser.swf" quality=high bgcolor=#000000  WIDTH=150 HEIGHT=200 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT>
+            </p>
+            <p align="center" style="margin-top: 0; margin-bottom: 0">
+            <img border="0" src="images1/welcum2.gif" width="183" height="29"></p>
+            
+            <p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+            
+<table bgcolor="#000000" height="100%" width="181" style="border-collapse: collapse" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="TOP" width="181">
+		<table width="177">
+		<TR><TD width="174">
+			<a title="Back to Home Page" href="index.php">
+    <img border="0" src="images1/home.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="About Me" href="about.php">
+            <img border="0" src="images1/aboutme.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Family" href="family.php"><img border="0" src="images1/myfamily.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Friends" href="friends.php">
+            <img border="0" src="images1/myfriends.gif"></a></TD>
+		</TR>
+
+		<TR><TD width="174">
+			<a title="My CV" href="mycv.php">
+            <img border="0" src="images1/mycv.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Native Land" href="nativeland.php">
+            <img border="0" src="images1/mynativeland.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174" style="font-family: arial,sans-serif">
+			<a title="My Subjects" href="subjects.php">
+            <img border="0" src="images1/mysubjects.gif"></a></TD>
+        </tr>
+        <tr>
+          <TD width="174" style="font-family: arial,sans-serif">
+			<a title="My Education" href="education.php">
+            <img border="0" src="images1/education.gif"></a></TD>
+        </tr>
+
+		<TR><TD width="174">
+			<a title="Persons influenced" href="inspiration.php">
+            <img border="0" src="images1/inspiration.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="Me In News" href="news.php">
+            <img border="0" src="images1/news.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Favourite Links" href="links.php">
+            <img border="0" src="images1/links.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="Useful Downloads" href="downloads.php">
+            <img border="0" src="images1/downloads.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="Site Map" href="sitemap.php">
+            <img border="0" src="images1/sitemap.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="Frequently Asked Questions" href="faq.php">
+            <img border="0" src="images1/faq.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="Pazhamchollukal" href="pazhamchollukal1.php">
+            <img border="0" src="images1/pazhamchollukal_eng.gif"></a></TD></TR>
+			<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Discussion Forum" href="/forum/index.php">
+            <img border="0" src="images1/forum.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Guest Book" href="guestbook/index.php">
+            <img border="0" src="images1/guestbook.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174">
+			<a title="Contact Me" href="contactme.php">
+            <img border="0" src="images1/contactme.gif"></a></TD>
+        </tr>
+
+		<tr>
+          <TD width="174">
+			<a title="&#3374;&#3378;&#3375;&#3390;&#3379; &#3373;&#3390;&#3383;&#3375;&#3391;&#3378;&#3399;&#3349;&#3405;&#3349;&#3405; &#3370;&#3403;&#3349;&#3363;&#3374;&#3398;&#3353;&#3405;&#3349;&#3391;&#3378;&#3405;&#8205;" href="index1.php">
+            <img border="0" src="images1/malayalam.gif"></a></TD>
+        </tr>
+
+		</table>
+
+	</td>
+</tr>
+</table>
+        </td>
+        <td valign=TOP bgcolor="#000000" width="754" height="1">
+            
+
+<p style="margin-top: 0; margin-bottom: 0"><img border="0" src="james1.jpg"><br>
+</p>
+<table width='678' cellpadding="5" cellspacing=0 height="2" style="border-collapse: collapse">
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" colspan="2" width="668">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="center" width="658" colspan="2">
+            <u><b>
+    <font face="Arial" size="2" color="#00FFFF">Electrical - My Favourite 
+    Subject</font></b></u></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="658" colspan="2">
+            <p align="center">
+  <font face="Arial" style="font-size: 9pt" color="#FFFFFF"><b>Electrical 
+  Engineering</b> is a field of <font color="#FFFFFF">engineering</font> that 
+  deals with the study and</font></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="658" colspan="2">
+            <p align="center">
+  <font face="Arial" style="font-size: 9pt" color="#FFFFFF">application of <font color="#FFFFFF">electricity</font>, 
+    in which I have done my graduation.</font></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="78">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="580">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="658" colspan="2">
+            <p align="center"><span style="font-size: 9pt">
+    <font face="Arial" color="#FFFFFF">Electricity came to India in the year 
+    1886. A comprehensive Act relating to</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="658" colspan="2">
+            <p align="center"><span style="font-size: 9pt">
+    <font face="Arial" color="#FFFFFF">electricity was enacted only in the year 
+    1910, which is known as Indian Electricity Act 1910.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="658" colspan="2">
+            <p align="center"><span style="font-size: 9pt">
+    <font face="Arial" color="#FFFFFF">State Electricity Boards were formed by 
+            virtue of section 5 of Electricity (Supply) Act 1948.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="2" bgcolor="#000000" align="left" width="658" colspan="2">
+            <p align="center"><span style="font-size: 9pt">
+    <font face="Arial" color="#FFFFFF">&nbsp;KSE Board comes under Southern Region Electricity 
+    Board (SERB) </font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="658" colspan="2">
+            <p align="center"> 
+    <span style="font-size: 9pt">
+    <font face="Arial" color="#FFFFFF">&nbsp;with headquarters at Bangalore.&nbsp; KSE 
+    Board issued the regulations and published a</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="658" colspan="2">
+            <p align="center"> 
+    <span style="font-size: 9pt">
+    <font face="Arial" color="#FFFFFF">booklet entitled &quot;Conditions of supply of 
+    Electrical Energy&quot;. Board revised the regulations in 1989.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="78">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="580">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="658" colspan="2">
+            <p align="center"> 
+    <span style="font-size: 9pt">
+    <font face="Arial" color="#FFFFFF">Electricity is a concurrent subject at 
+    entry 38 in list -II of the seventh schedule of the</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="center" width="658" colspan="2">
+            <span style="font-size: 9pt">
+    <font face="Arial" color="#FFFFFF">&nbsp;Constitution of India.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="78">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="580">
+            &nbsp;</td>
+	</tr>
+	<tr>
+    <td height="1" width="44" style="border-bottom-style: none; border-bottom-width: medium" align="justify">
+    <p style="margin-top: 0; margin-bottom: 0">
+        </td> 
+    <td height="1" width="508" style="border-bottom-style: none; border-bottom-width: medium"> 
+    <p style="margin-top: 0; margin-bottom: 0"> 
+    <font face="Arial"><span style="font-size: 9pt">
+    <img border="0" src="images/bull2.gif" align="left"></span></font><b><font face="Arial" color="#FFFFFF"><span style="font-size: 9pt; text-decoration: none"><a style="text-decoration: none" href="electrical_safety.php"><font color="#FFFFFF">Electrical Safety</font></a></span></font></b></td> 
+	</tr>
+	<tr>
+    <td height="1" width="44" style="border-bottom-style: none; border-bottom-width: medium" align="justify">
+    <p style="margin-top: 0; margin-bottom: 0">
+        </td> 
+    <td height="1" width="508" style="border-bottom-style: none; border-bottom-width: medium"> 
+    <p style="margin-top: 0; margin-bottom: 0"> 
+    <a style="text-decoration: none" href="conservation.php"> 
+    <font face="Arial"><span style="font-size: 9pt">
+    <img border="0" src="images/bull2.gif" align="left"></span></font><font face="Arial" color="#FFFFFF"><b><span style="font-size: 9pt; text-decoration: none"><font color="#FFFFFF">Conservation</font></span><span style="font-size: 9pt">
+    </span></b></font></a></td> 
+	</tr>
+	<tr>
+    <td height="1" width="44" style="border-bottom-style: none; border-bottom-width: medium" align="justify">
+    <p style="margin-top: 0; margin-bottom: 0">
+        </td> 
+    <td height="1" width="508" style="border-bottom-style: none; border-bottom-width: medium"> 
+    <p style="margin-top: 0; margin-bottom: 0" align="left">
+    <font face="Arial"><span style="font-size: 9pt">
+    <img border="0" src="images/bull2.gif" align="left"></span></font><b><a style="font-size: 9pt; text-decoration: none" href="ele_definition.php"><font face="Arial" color="#FFFFFF">Electrical Definitions</font></a></b></td> 
+	</tr>
+	<tr>
+    <td height="1" width="44" style="border-bottom-style: none; border-bottom-width: medium" align="justify">
+    <p style="margin-top: 0; margin-bottom: 0">
+        </td> 
+    <td height="1" width="508" style="border-bottom-style: none; border-bottom-width: medium"> 
+    <p style="margin-top: 0; margin-bottom: 0"> 
+    <font face="Arial"><span style="font-size: 9pt">
+    <img border="0" src="images/bull2.gif" align="left"></span></font><b><a style="text-decoration: none" href="faq1.php"><font face="Arial" style="font-size: 9pt" color="#FFFFFF">FAQ (Electrical)</font></a></b></td> 
+	</tr>
+	<tr>
+    <td height="1" width="44" style="border-bottom-style: none; border-bottom-width: medium" align="justify">
+    <p style="margin-top: 0; margin-bottom: 0">
+        </td> 
+    <td height="1" width="508" style="border-bottom-style: none; border-bottom-width: medium"> 
+    <p style="margin-top: 0; margin-bottom: 0" dir="ltr"> 
+    <font face="Arial"><span style="font-size: 9pt">
+    <img border="0" src="images/bull2.gif" align="left"></span></font><b><a style="text-decoration: none" href="deptsheet.php"><font face="Arial" style="font-size: 9pt" color="#FFFFFF">Electrical Page 
+    for My Dept. Friends</font></a></b></td> 
+	</tr>
+	<tr>
+    <td height="27" width="44" style="border-bottom-style: none; border-bottom-width: medium"></td> 
+    <td height="27" width="508" style="border-bottom-style: none; border-bottom-width: medium"> 
+    <font color="#FFFFFF" size="2">More items will be added 
+      soon</font><font color="#FFFFFF"> </font></td> 
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="78">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="580">
+            <p align="center">
+            <img border="0" src="images1/rybn1.jpg" width="289" height="218" align="left"></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="78">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="580">
+            <p align="right"><b>
+    <font face="Arial" size="2" color="#00FFFF">
+            <a href="subjects.php" style="text-decoration: none">
+            <font color="#00FFFF">Back</font></a></font></b></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="78">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="580">
+            <p style="margin-top: 0; margin-bottom: 0"><b>
+    <font size="1" color="#00FFFF" face="Arial">Site Designed &amp; Maintained by 
+    Jameskutty Thomas</font></b><p style="margin-top: 0; margin-bottom: 0"> 
+      <font color="#00FFFF" face="Arial"> 
+      <b><font style="font-size: 10pt">&copy;</font><font size="1"> 
+      2016-17</font></b></td>
+	</tr>
+	</table>
+
+        </td>
+        </tr>
+        </table>
+          </center>
+    </form>  
+</body>
+</html></title>

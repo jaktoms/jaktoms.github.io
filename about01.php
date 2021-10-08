@@ -1,0 +1,242 @@
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="ml">
+<title>
+	&#3356;&#3375;&#3391;&#3330;&#3384;&#3405;&#3349;&#3393;&#3359;&#3405;&#3359;&#3391;&#3375;&#3398; &#3384;&#3330;&#3372;&#3368;&#3405;&#3367;&#3391;&#3354;&#3405;&#3354;&#3405;
+	</title><link href="styles.css" type="text/css" rel="stylesheet" /></head>
+<body style="background-color: #000000" link="#000000">
+          <center>
+
+        <table cellpadding=5 cellspacing=0 bgcolor=#000000 height="1" width='955' style="border-collapse: collapse">
+        <tr bgcolor=white>
+        <td width='181' valign=TOP bgcolor="#000000" height="1">
+            <p style="margin-top: 0; margin-bottom: 4" align="center">
+            <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+ WIDTH=169 HEIGHT=161>
+ <PARAM NAME=movie VALUE="images/laser.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000> 
+              <EMBED src="images/laser.swf" quality=high bgcolor=#000000  WIDTH=150 HEIGHT=200 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT>
+            </p>
+            
+            <p style="margin-top: 0; margin-bottom: 0" align="center">
+            <img border="0" src="images1/swagatham.gif"></p>
+            
+            <p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+            
+<table bgcolor="#000000" height="100%" width="181" style="border-collapse: collapse" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="TOP" width="181">
+		<table width="177">
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3384;&#3400;&#3377;&#3405;&#3377;&#3391;&#3368;&#3405;&#3377;&#3398; &#3334;&#3366;&#3405;&#3375; &#3370;&#3399;&#3356;&#3391;&#3378;&#3399;&#3375;&#3405;&#3349;&#3405;&#3349;&#3405;" href="index1.php">
+    <img border="0" src="images1/poomukham.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3342;&#3368;&#3405;&#3377;&#3398; &#3349;&#3393;&#3359;&#3393;&#3330;&#3372;&#3330;" href="family.php">
+            <img border="0" src="images1/kudumbam.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3342;&#3368;&#3405;&#3377;&#3398; &#3384;&#3393;&#3385;&#3395;&#3364;&#3405;&#3364;&#3393;&#3349;&#3405;&#3349;&#3379;&#3405;&#8205;" href="friends.php">
+            <img border="0" src="images1/suhruth.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3342;&#3368;&#3405;&#3377;&#3398; &#3384;&#3405;&#3381;&#3375;&#3381;&#3391;&#3381;&#3376;&#3363;&#3330;" href="mycv.php">
+            <img border="0" src="images1/civi.gif"></a></TD>
+		</TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3342;&#3368;&#3405;&#3377;&#3398; &#3356;&#3368;&#3405;&#3374;&#3384;&#3405;&#3365;&#3378;&#3330;" href="nativeland.php">
+            <img border="0" src="images1/janmam.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3342;&#3368;&#3405;&#3377;&#3398; &#3381;&#3391;&#3383;&#3375;&#3353;&#3405;&#3353;&#3379;&#3405;&#8205;" href="subjects.php">
+            <img border="0" src="images1/vishayam.gif"></a></TD>
+        </tr>
+        <tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3342;&#3368;&#3405;&#3377;&#3398; &#3381;&#3391;&#3366;&#3405;&#3375;&#3390;&#3373;&#3405;&#3375;&#3390;&#3384;&#3330;" href="education.php">
+            <img border="0" src="images1/vidya.gif"></a></TD>
+        </tr>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3342;&#3368;&#3391;&#3349;&#3405;&#3349;&#3393; &#3378;&#3373;&#3391;&#3354;&#3405;&#3354; &#3370;&#3405;&#3376;&#3354;&#3403;&#3366;&#3368;&#3330;" href="inspiration.php">
+            <img border="0" src="images1/prachodhanam.gif"></a></TD>
+        </tr>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3358;&#3390;&#3368;&#3405;&#8205; &#3381;&#3390;&#3376;&#3405;&#8205;&#3364;&#3405;&#3364;&#3375;&#3391;&#3378;&#3405;&#8205;" href="news.php">
+            <img border="0" src="images1/vartha.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3370;&#3405;&#3376;&#3375;&#3403;&#3356;&#3368;&#3374;&#3393;&#3379;&#3405;&#3379; &#3374;&#3377;&#3405;&#3377;&#3393; &#3349;&#3363;&#3405;&#3363;&#3391;&#3349;&#3379;&#3405;&#8205;" href="links.php">
+            <img border="0" src="images1/linkukal.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3368;&#3391;&#3353;&#3405;&#3353;&#3379;&#3405;&#8205;&#3349;&#3405;&#3349;&#3405;  &#3370;&#3349;&#3376;&#3405;&#8205;&#3364;&#3405;&#3364;&#3390;&#3330;" href="downloads.php">
+            <img border="0" src="images1/download_mal.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174">
+			<a title="&#3342;&#3368;&#3405;&#3377;&#3398; &#3361;&#3391;&#3370;&#3405;&#3370;&#3390;&#3376;&#3405;&#8205;&#3359;&#3405;&#3359;&#3405;&#3374;&#3398;&#3368;&#3405;&#3377;&#3405; &#3384;&#3393;&#3385;&#3395;&#3364;&#3405;&#3364;&#3393;&#3349;&#3405;&#3349;&#3379;&#3405;&#8205;&#3349;&#3405;&#3349;&#3390;&#3375;&#3391;" href="deptsheet.php">
+            <img border="0" src="images1/dept1.gif"></a></TD>
+        </tr>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3342;&#3368;&#3405;&#3377;&#3398; &#3381;&#3398;&#3372;&#3405; &#3384;&#3400;&#3377;&#3405;&#3377;&#3391;&#3368;&#3405;&#3377;&#3398; &#3381;&#3380;&#3391; &#3349;&#3390;&#3363;&#3391;&#3354;&#3405;&#3354;&#3393; &#3364;&#3376;&#3390;&#3330;" href="sitemap.php">
+            <img border="0" src="images1/vazhikatti.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3368;&#3391;&#3353;&#3405;&#3353;&#3379;&#3405;&#8205; &#3381;&#3392;&#3363;&#3405;&#3359;&#3393;&#3330; &#3381;&#3392;&#3363;&#3405;&#3359;&#3393;&#3330; &#3354;&#3403;&#3366;&#3391;&#3349;&#3405;&#3349;&#3393;&#3368;&#3405;&#3368;&#3364;&#3405;" href="faq.php">
+            <img border="0" src="images1/chodyangal.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3370;&#3380;&#3375; &#3334; &#3374;&#3378;&#3375;&#3390;&#3379; &#3354;&#3402;&#3378;&#3405;&#3378;&#3393;&#3349;&#3379;&#3405;&#8205;" href="pazhamchollukal.php">
+            <img border="0" src="images1/pazhamchollukal.gif"></a></TD>
+        </tr>
+
+	<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3384;&#3330;&#3381;&#3390;&#3366;&#3364;&#3405;&#3364;&#3391;&#3368;&#3393;&#3379;&#3405;&#3379; &#3381;&#3391;&#3373;&#3390;&#3351;&#3330;" href="/forum/index.php">
+            <img border="0" src="images1/samvadam.gif"></a></TD>
+        </tr>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3342;&#3368;&#3391;&#3349;&#3405;&#3349;&#3393; &#3346;&#3376;&#3393; &#3384;&#3368;&#3405;&#3366;&#3399;&#3382;&#3330; &#3364;&#3368;&#3405;&#3368;&#3393; &#3349;&#3394;&#3359;&#3398;?" href="guestbook/index.php">
+            <img border="0" src="images1/sandheshangal.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3358;&#3390;&#3368;&#3393;&#3374;&#3390;&#3375;&#3391; &#3372;&#3368;&#3405;&#3367;&#8203;&#3370;&#3405;&#3370;&#3398;&#3359;&#3393;&#3381;&#3390;&#3368;&#3405;&#8205;" href="contactme.php">
+            <img border="0" src="images1/bandhappeduvan.gif"></a></TD>
+        </tr>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Move to English page" href="about.php">
+            <img border="0" src="images1/english.gif"></a></TD>
+        </tr>
+
+		</table>
+
+	</td>
+</tr>
+</table>
+        </td>
+        <td valign=TOP bgcolor="#000000" width="754" height="1">
+            
+
+<p style="margin-top: 0; margin-bottom: 0"><img border="0" src="james2.jpg"><br>
+</p>
+<table width='797' cellpadding="5" cellspacing=0 height="1" style="border-collapse: collapse">
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" colspan="2" width="787">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="385">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="392">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="385">
+            <img border="0" src="images/ayelloball.gif" align="right"></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="392">
+    <font face="AnjaliOldLipi" style="font-size: 9pt" color="#FFFFFF">
+    <a href="mycv.php" style="text-decoration: none; font-weight: 700">
+    <font color="#FFFFFF">&#3342;&#3368;&#3405;&#3377;&#3398; &#3384;&#3391;.&#3381;&#3391;</font></a></font></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="385">
+            <img border="0" src="images/ayelloball.gif" align="right"></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="392">
+            <font face="AnjaliOldLipi" style="font-size: 9pt" color="#FFFFFF">
+    <a style="text-decoration: none; font-weight: 700" href="rank.php">
+    <font color="#FFFFFF">&#3368;&#3399;&#3359;&#3405;&#3359;&#3353;&#3405;&#3353;&#3379;&#3405;&#8205;</font></a></font></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="385">
+            <img border="0" src="images/ayelloball.gif" align="right"></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="392">
+            <font face="AnjaliOldLipi" style="font-size: 9pt" color="#FFFFFF">
+            <a style="text-decoration: none; font-weight: 700" href="about11.php">
+    <font color="#FFFFFF">&#3342;&#3368;&#3405;&#3377;&#3398; &#3370;&#3359;&#3353;&#3405;&#3353;&#3379;&#3405;&#8205;</font></a></font></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="385">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="392">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="385">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="392">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="385">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="392">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="385">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="392">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="777" colspan="2">
+            <p align="center">
+            <a title="&#3342;&#3368;&#3405;&#3377;&#3398; &#3381;&#3392;&#3359;&#3405;.  &#3381;&#3378;&#3393;&#3364;&#3390;&#3375;&#3391; &#3349;&#3390;&#3363;&#3393;&#3368;&#3405;&#3368;&#3364;&#3391;&#3368;&#3405;, &#3335;&#3364;&#3391;&#3378;&#3405;&#8205; &#3333;&#3374;&#3376;&#3405;&#8205;&#3364;&#3405;&#3364;&#3393;&#3349;" href="images1/ambanadu.jpg">
+            <img border="0" src="images1/ambanadu1.jpg" width="285" height="195"></a></td>
+	</tr>
+	</table>
+
+<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+
+<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+
+<div align="right">
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-width: 0" width="794" align="right">
+  <tr>
+    <td width="786" style="border-style: none; border-width: medium">
+  <p style="margin-top: 0; margin-bottom: 0" align="center">
+      <font color="#00FFFF" face="AnjaliOldLipi"><font size="1"><b>&#3336; &#3364;&#3390;&#3379;&#3405;&#8205;&nbsp; &#3376;&#3394;&#3370;&#3349;&#3378;&#3405;&#3370;&#3368; &#3368;&#3453;&#3349;&#3391;&#3375;&#3364;&#3393;&#3330; 
+    &#3370;&#3376;&#3391;&#3370;&#3390;&#3378;&#3391;&#3375;&#3405;&#3349;&#3405;&#3349;&#3393;&#3368;&#3405;&#3368;&#3364;&#3393;&#3330;
+      &#3356;&#3375;&#3391;&#3330;&#3384;&#3405;&#8204;&#3349;&#3393;&#3359;&#3405;&#3359;&#3391; &#3364;&#3403;&#3374;&#3384;&#3405;&#8204;</b></font></font><p style="margin-top: 0; margin-bottom: 0" align="center">
+      <font face="AnjaliOldLipi" color="#00FFFF" size="1"><b>&#3370;&#3349;&#3452;&#3370;&#3405;&#3370;&#3381;&#3349;&#3390;&#3382;&#3330; 201<span lang="en-us"><font size="1">6</font></span>-1<span lang="en-us"><font size="1">7</font></span></b></font></td>
+  </tr>
+  </table>
+
+        </div>
+
+        </td>
+        </tr>
+        </table>
+          </center>
+    </form>  
+</body>
+</html></title>

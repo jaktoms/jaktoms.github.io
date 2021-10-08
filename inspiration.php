@@ -1,0 +1,222 @@
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="ml">
+<title>
+	Important personalities influenced me
+	</title><link href="styles.css" type="text/css" rel="stylesheet" /></head>
+<body style="background-color: #000000" link="#000000">
+          <center>
+
+        <table cellpadding=5 cellspacing=0 bgcolor=#000000 height="1" width='955' style="border-collapse: collapse">
+        <tr bgcolor=white>
+        <td width='181' valign=TOP bgcolor="#000000" height="1">
+            <p style="margin-top: 0; margin-bottom: 0">
+            <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+ WIDTH=169 HEIGHT=161>
+ <PARAM NAME=movie VALUE="images/laser.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000> 
+              <EMBED src="images/laser.swf" quality=high bgcolor=#000000  WIDTH=150 HEIGHT=200 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT>
+            </p>
+            <p align="center" style="margin-top: 0; margin-bottom: 0">
+            <img border="0" src="images1/welcum2.gif" width="183" height="29"></p>
+            
+            <p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+            
+<table bgcolor="#000000" height="100%" width="181" style="border-collapse: collapse" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="TOP" width="181">
+		<table width="177">
+		<TR><TD width="174">
+			<a title="Back to Home Page" href="index.php">
+    <img border="0" src="images1/home.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="About Me" href="about.php">
+            <img border="0" src="images1/aboutme.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Family" href="family.php"><img border="0" src="images1/myfamily.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Friends" href="friends.php">
+            <img border="0" src="images1/myfriends.gif"></a></TD>
+		</TR>
+
+		<TR><TD width="174">
+			<a title="My CV" href="mycv.php">
+            <img border="0" src="images1/mycv.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Native Land" href="nativeland.php">
+            <img border="0" src="images1/mynativeland.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Subjects" href="subjects.php">
+            <img border="0" src="images1/mysubjects.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Education" href="education.php">
+            <img border="0" src="images1/education.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="Me In News" href="news.php">
+            <img border="0" src="images1/news.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Favourite Links" href="links.php">
+            <img border="0" src="images1/links.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="Useful Downloads" href="downloads.php">
+            <img border="0" src="images1/downloads.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="Site Map" href="sitemap.php">
+            <img border="0" src="images1/sitemap.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="Frequently Asked Questions" href="faq.php">
+            <img border="0" src="images1/faq.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="Pazhamchollukal" href="pazhamchollukal1.php">
+            <img border="0" src="images1/pazhamchollukal_eng.gif"></a></TD></TR>
+			<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Discussion Forum" href="/forum/index.php">
+            <img border="0" src="images1/forum.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Guest Book" href="guestbook/index.php">
+            <img border="0" src="images1/guestbook.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174">
+			<a title="Contact Me" href="contactme.php">
+            <img border="0" src="images1/contactme.gif"></a></TD>
+        </tr>
+
+		<tr>
+          <TD width="174">
+			<a title="&#3374;&#3378;&#3375;&#3390;&#3379; &#3373;&#3390;&#3383;&#3375;&#3391;&#3378;&#3399;&#3349;&#3405;&#3349;&#3405; &#3370;&#3403;&#3349;&#3363;&#3374;&#3398;&#3353;&#3405;&#3349;&#3391;&#3378;&#3405;&#8205;" href="index1.php">
+            <img border="0" src="images1/malayalam.gif"></a></TD>
+        </tr>
+
+		</table>
+
+	</td>
+</tr>
+</table>
+        </td>
+        <td valign=TOP bgcolor="#000000" width="754" height="1">
+            
+
+<p style="margin-top: 0; margin-bottom: 0"><img border="0" src="james1.jpg"><br>
+</p>
+<table width='797' cellpadding="5" cellspacing=0 height="1" style="border-collapse: collapse">
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" colspan="5" width="787">
+            <p align="center">
+    <u><b><font face="Arial" style="font-size: 9pt" color="#00FFFF">Important 
+    personalities influenced me</font></b></u></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="150">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="104">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="255">
+            <p align="center"><b><font color="#00FF00">
+    <span style="font-size: 10.0pt; font-family: Arial">C.M.Stephen</span></font></b></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="134">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="134">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="150">
+            &nbsp;</td>
+	    <td height="1" bgcolor="#000000" align="center" width="104">
+    <img border="0" src="images1/india-flag.gif"></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="255">
+    <p align="center">
+    <img border="0" src="images/cmstephen.jpg" width="136" height="157"></td>
+	    <td height="1" bgcolor="#000000" align="center" width="134">
+    <img border="0" src="images1/india-flag.gif"></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="134">
+    &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="150">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="493" colspan="3">
+    <p align="justify"><font color="#FFFFFF" face="Arial" size="2"><b>
+    Sri.C.M.Stephen,</b> was a close friend to my father, more than a leader. 
+    Hence, he influenced me in my childhood. He helped my family personally and 
+    more over through his official stand. Related with my father&#39;s job, there 
+    was a case reached even to the Supreme Court. He was attending the case 
+    without our direct presence, as an Advocate.</font></p>
+    <p align="justify"><font color="#FFFFFF" face="Arial" size="2">C.M.Stephen, 
+    a multifarious personality, occupies a prominent position in Indian politics 
+    and parliamentary affairs. A trade union leader, journalist, 
+    parliamentarian, union minister, A I C C general secretary, opposition 
+    leader of Loksabha- C.M.Stephen has proved his mark in all these fields.<br>
+    <br>
+    He was born on December 23, 1918 to Eapen Mathai and Esther of Chembakassery 
+    house in Cherukole. Known as Thankachan, he was active in Balajanasaghyam 
+    fright from school days. This helped him develop leader ship quality, 
+    oratory and organizing skill. In a function attended by T.M.Varghese, he 
+    made a speech which turned to be a turning point in his life. P.C.Koruthu of 
+    Malayalamanorama wrote an article on Stephen &#39; Bala vagmi&#39;( The child orator 
+    ), thus introducing him to the readers. After completing B L, Stephen, 
+    started his career as a jounalist in a monthly of News&nbsp; Book Company 
+    and then in Financial News. Gradually he became the owner of &#39;Pouraprabha&#39; 
+    an evening daily. Through this daily he supported the Congress Government, 
+    attacking the rule of C.P.Ramaswamy Iyyer. In 1949, he gave up his career as 
+    a journalist and started practising law. In 1951, he joined active politics 
+    and in the same year became the D C C president of Kollam. Kollam congress 
+    bhavan is a result of his hard work. He was totally against mixing politics 
+    with religion. </font></p>
+    <p class="MsoNormal" style="text-align: justify; line-height: 12.0pt">
+    <font color="#FFFFFF" face="Arial" size="2">C.M.Stephen was also the founder 
+    of I N T U C. In 1960, 65 and 71 he won elections. He played an important 
+    role in strengthening the Congress party in Kerala. In 1978 January 2 , 
+    Congress split into two. C.M.Stephen joined Indira Congress. It was during 
+    this time that he became the leader of opposition in the Loksabha- the 
+    second malayalee to be so after A K G. In 1980, when Indira Gandhi came back 
+    to power Stephen became the cabinet minister in Information and 
+    broadcasting. Later he moved to Postal and Telegraph department. He became A 
+    I C C General secretary in 1982. In 1984 January 16th he passed away. Rajiv 
+    Gandhi visited Mavelikara to pay homage to the departed leader.</font><p class="MsoNormal" style="text-align: justify; margin-top:0">
+    <span lang="en-us"><font face="Arial" size="2" color="#FFFFFF">Join page in
+    </font></span>
+    <a href="https://www.facebook.com/pages/CMStephen/237571416309709">
+    <img border="0" src="aQS49E_QL8q.png" width="22" height="22"></a></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="134">
+            &nbsp;</td>
+	</tr>
+	</table>
+
+<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+
+<div align="right">
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-width: 0" width="752" align="right">
+  <tr>
+    <td width="744" style="border-style: none; border-width: medium">
+  <p style="margin-top: 0; margin-bottom: 0" align="center"><b>
+    <font size="1" color="#00FFFF" face="Arial">Site Designed &amp; Maintained by 
+    Jameskutty Thomas</font></b><p align="center" style="margin-top: 0; margin-bottom: 0"> 
+      <b><font color="#00FFFF" face="Arial"><font style="font-size: 10pt">&copy;</font><font size="1"> 
+      2016-17</font></b></td>
+  </tr>
+  </table>
+
+        </div>
+
+        </td>
+        </tr>
+        </table>
+          </center>
+    </form>  
+</body>
+</html></title>

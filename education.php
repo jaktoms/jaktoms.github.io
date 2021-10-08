@@ -1,0 +1,395 @@
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+<title>
+	About My Education
+	</title><link href="styles.css" type="text/css" rel="stylesheet" />
+<style>
+<!--
+.med {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: medium; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#res {
+	PADDING-RIGHT: 1em
+}
+OL LI {
+	LIST-STYLE-TYPE: none
+}
+.g {
+	MARGIN: 1em 0px
+}
+LI.g {
+	FONT-SIZE: small; FONT-FAMILY: arial,sans-serif
+}
+.s {
+	max-width: 42em
+}
+.s {
+	WIDTH: 544px
+}
+-->
+</style>
+</head>
+<body style="background-color: #000000" link="#000000">
+          <center>
+
+        <table cellpadding=5 cellspacing=0 bgcolor=#000000 height="1" width='955' style="border-collapse: collapse">
+        <tr bgcolor=white>
+        <td width='181' valign=TOP bgcolor="#000000" height="1">
+            <p style="margin-top: 0; margin-bottom: 0">
+            <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+ WIDTH=169 HEIGHT=161>
+ <PARAM NAME=movie VALUE="images/laser.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000> 
+              <EMBED src="images/laser.swf" quality=high bgcolor=#000000  WIDTH=150 HEIGHT=200 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT>
+            </p>
+            <p align="center" style="margin-top: 0; margin-bottom: 0">
+            <img border="0" src="images1/welcum2.gif" width="183" height="29"></p>
+            
+            <p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+            
+<table bgcolor="#000000" height="100%" width="181" style="border-collapse: collapse" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="TOP" width="181">
+		<table width="177">
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Back to Home Page" href="index.php">
+    <img border="0" src="images1/home.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="About Me" href="about.php">
+            <img border="0" src="images1/aboutme.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Family" href="family.php"><img border="0" src="images1/myfamily.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Friends" href="friends.php">
+            <img border="0" src="images1/myfriends.gif"></a></TD>
+		</TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My CV" href="mycv.php">
+            <img border="0" src="images1/mycv.gif"></a></TD>
+		</TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Native Land" href="nativeland.php">
+            <img border="0" src="images1/mynativeland.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Subjects" href="subjects.php">
+            <img border="0" src="images1/mysubjects.gif"></a></TD>
+        </tr>
+        <tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Persons influenced" href="inspiration.php">
+            <img border="0" src="images1/inspiration.gif"></a></TD>
+        </tr>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Me In News" href="news.php">
+            <img border="0" src="images1/news.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Favourite Links" href="links.php">
+            <img border="0" src="images1/links.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Useful Downloads" href="downloads.php">
+            <img border="0" src="images1/downloads.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174" style="font-family: arial,sans-serif">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="For My Department Friends" href="deptsheet.php">
+            <img border="0" src="images1/dept.gif"></a></TD>
+        </tr>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Site Map" href="sitemap.php">
+            <img border="0" src="images1/sitemap.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Frequently Asked Questions" href="faq.php">
+            <img border="0" src="images1/faq.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+            <a title="Pazhamchollukal" href="pazhamchollukal1.php">
+            <img border="0" src="images1/pazhamchollukal_eng.gif"></a></TD></TR>
+			<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Discussion Forum" href="/forum/index.php">
+            <img border="0" src="images1/forum.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Guest Book" href="guestbook/index.php">
+            <img border="0" src="images1/guestbook.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Contact Me" href="contactme.php">
+            <img border="0" src="images1/contactme.gif"></a></TD>
+        </tr>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3374;&#3378;&#3375;&#3390;&#3379; &#3373;&#3390;&#3383;&#3375;&#3391;&#3378;&#3399;&#3349;&#3405;&#3349;&#3405; &#3370;&#3403;&#3349;&#3363;&#3374;&#3398;&#3353;&#3405;&#3349;&#3391;&#3378;&#3405;&#8205;" href="index1.php">
+            <img border="0" src="images1/malayalam.gif"></a></TD>
+        </tr>
+
+		</table>
+
+	</td>
+</tr>
+</table>
+        </td>
+        <td valign=TOP bgcolor="#000000" width="754" height="1">
+            
+
+<p style="margin-top: 0; margin-bottom: 0"><img border="0" src="james1.jpg"><br>
+</p>
+<table width='794' cellpadding="5" cellspacing=0 height="1" style="border-collapse: collapse">
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" colspan="5" width="787">
+      <p style="word-spacing: 0; line-height: 100%; margin-top: 1; margin-bottom: 1">
+      <u><b><font face="Arial" style="font-size: 9pt" color="#00FFFF">About My 
+      Education</font></b></u></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="12">
+            <font style="font-size: 9pt; font-weight:700" color="#00FF00" face="Arial">1</font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="481" colspan="2">
+            <font style="font-size: 9pt; font-weight:700" color="#00FF00" face="Arial">
+            Puthanveettil UP School, Pazhangalam</font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="284" colspan="2">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="12">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" width="765" colspan="4" style="text-align: justify; text-justify: kashida">
+            <p style="margin-top: 0; margin-bottom: 0">
+            <font style="font-size: 9pt" color="#FFFFFF" face="Arial">My&nbsp; 
+            primary schooling from 1st to 5th standard was in this school. The 
+            period is from 1970 to 1975. I could remember some of the teachers 
+            as;&nbsp; Mariamma Teacher (1st std.), Sankaran Sir (Malayalam),&nbsp; 
+            Cherian Sir (Mathematics), Narayanan Sir, Janardhanan Sir,&nbsp; 
+            Chellamma Teacher (Stitching &amp; Craft), Yohannan Sir (Headmaster), 
+            etc.</font></p>
+            <p style="margin-top: 0; margin-bottom: 0" align="justify">
+            <font face="Arial" style="font-size: 9pt" color="#FFFFFF">Let me try 
+            to recollect some of my friends in the school. My favourite friend 
+            in the school was Suresh Babu. He was originally from Ashramam, 
+            Kollam. Really he was studying in this school staying in a 
+            relative's house near the school. I couldn't meet him after the 
+            school. Thankachan 
+            &amp; Prasanna(Sister&amp;Brother), Nelson, SIvankutty, Philip, Raju, Sudhakaran (Kanjirakodan), 
+            Money, Moni,  Babu, Achankunju, etc. are some of the names coming to my mind.</font></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="12">
+            <font style="font-size: 9pt; font-weight:700" color="#00FF00" face="Arial">2.</font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="481" colspan="2">
+            <font style="font-size: 9pt; font-weight:700" color="#00FF00" face="Arial">Mar 
+            Gregarious (M.G) UP School, Perumpuzha</font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="284" colspan="2">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="12">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="365">
+            <font style="font-size: 9pt" face="Arial" color="#FFFFFF">Here, 
+            finished my 6th &amp; 7th standards. Period is from 1976 to 1977. Some 
+            of the teachers coming immediately to my mind are Sarojini Amma 
+            Teacher (Malayalam), etc. </font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="328" colspan="2">
+            <img border="0" src="images1/mgups.gif"></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="72">
+            &nbsp;</td>
+	    </tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="12">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="456">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="309" colspan="3">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="12">
+            <font style="font-size: 9pt; font-weight:700" face="Arial" color="#00FF00">3.</font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="765" colspan="4">
+            <font style="font-size: 9pt; font-weight:700" face="Arial" color="#00FF00">Sreekantan 
+            Nair Sashtiabdhapoorthi Memorial (<em style="font-size: 9pt; font-weight:700">S.N.S.M</em>) 
+            High School, Elampalloor</font></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" width="12" style="text-align: justify; text-justify: kashida">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" width="365" style="text-align: justify; text-justify: kashida">
+            <font face="Arial" style="font-size: 9pt" color="#FFFFFF">My High 
+            School, from 8th to 9th. Completed in March 1980. My Teachers; 
+            Joseph Sir (English), Thulaseedharan Pillai Sir (from Perumpuzha) 
+            (Malayalam), Janardhanan Sir 
+            (Maths), Kushala Teacher (Physics &amp; Chemistry), Sreedevi Teacher 
+            (Biology), Krishna Moorthy (from Pazhangalam). Some of my 
+            classmates; Latheef, Nazeer, Soharab, Omana Kuttan(2 persons, one 
+            from Kureepally and the other from Chemmakadu), Shanavas (from 
+            Kureepally), Vinod &amp; Santhosh (brothers) from Punnamukku, Siva 
+            Prasad (from Punnamukku), Sivankutty, Sivaraj, Vamadevan, 
+            Radhakrishnan (from Kureepally), etc. My tuition was in SNT College, 
+            Punnamukku from where I got Rs 500/- cash award for securing first 
+            mark in SSLC.</font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="328" colspan="2" style="text-align: justify; text-justify: kashida">
+            <img border="0" src="images1/snsmhs.gif"></td>
+	    <td valign=top height="1" bgcolor="#000000" width="72" style="text-align: justify; text-justify: kashida">
+            &nbsp;</td>
+	    </tr>
+    <tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="12">
+            <span style="font-weight: 700">
+            <font face="Arial" style="font-size: 9pt" color="#00FF00">4</font></span><font style="font-size: 9pt; font-weight:700" face="Arial" color="#00FF00">.</font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="765" colspan="4">
+            <font style="font-size: 9pt; font-weight:700" face="Arial" color="#00FF00">Sree 
+            Narayana College (<i>SNC</i>), Kollam</font></td>
+	</tr>
+    <tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="12">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="365">
+            <font style="font-size: 9pt" face="Arial" color="#FFFFFF">Data will 
+            be added soon</font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="328" colspan="2">
+            <a href="http://www.snckollam.ac.in/">
+            <img border="0" src="images1/snckollam.jpg" width="127" height="105"></a></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="72">
+            &nbsp;</td>
+	    </tr>
+    <tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="12">
+            <span style="font-weight: 700">
+            <font face="Arial" style="font-size: 9pt" color="#00FF00">5</font></span><font style="font-size: 9pt; font-weight:700" face="Arial" color="#00FF00">.</font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="765" colspan="4">
+            <span style="font-weight: 700">
+            <font face="Arial" style="font-size: 9pt" color="#00FF00">Fatima 
+            Matha National College (<i>FMNC</i>), Kollam</font></span></td>
+	</tr>
+    <tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="12">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="365">
+            <font style="font-size: 9pt" face="Arial" color="#FFFFFF">Data will 
+            be added soon</font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="328" colspan="2">
+            <a href="http://www.fatimacollege.net/">
+            <img border="0" src="images1/fmnckollam.jpg" width="239" height="113"></a></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="72">
+            &nbsp;</td>
+	    </tr>
+    <tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="12">
+            <font style="font-size: 9pt; font-weight:700" face="Arial" color="#00FF00">
+            6.</font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="765" colspan="4">
+            <span style="font-weight: 700">
+            <font face="Arial" style="font-size: 9pt" color="#00FF00">Thangal 
+            Kunju Musaliar College of Engineering (<i>TKMCE</i>), Kollam</font></span></td>
+	</tr>
+    <tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="12">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="365">
+            <font style="font-size: 9pt" face="Arial" color="#FFFFFF">Data will 
+            be added soon</font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="328" colspan="2">
+            <a title="Click to get enlarged pic" href="images1/tkmce.jpg">
+            <img border="0" src="images1/tkmce.jpg" width="127" height="91"></a></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="72">
+            &nbsp;</td>
+	    </tr>
+    <tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="12">
+            <font style="font-size: 9pt; font-weight:700" face="Arial" color="#00FF00">
+            6.</font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="765" colspan="4">
+            <span style="font-weight: 700">
+            <font face="Arial" style="font-size: 9pt" color="#00FF00">Cochin 
+            University of Science &amp; Technology, Kalamassery, Kochi</font></span></td>
+	</tr>
+    <tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="12">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="365">
+            <font style="font-size: 9pt" face="Arial" color="#FFFFFF">Data will 
+            be added soon</font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="328" colspan="2">
+            <a href="http://physics.cusat.ac.in/">
+            <img border="0" src="images/cus_phys.jpg" width="196" height="116"></a></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="72">
+            <a href="http://www.photonics.cusat.edu/">
+            <img border="0" src="images1/photonics.jpg" width="168" height="114"></a></td>
+	    </tr>
+    <tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="12">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="365">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="328" colspan="2">
+            <p align="left" style="margin-left: 130">
+            <font style="font-size: 9pt; font-weight: 700" color="#FFFFFF" face="Arial">
+            Department of Physics</font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="300" style="text-align: justify; text-justify: kashida">
+            <span style="font-weight: 700">
+            <font face="Arial" style="font-size: 9pt" color="#FFFFFF">
+            International School of Photonics</font></span></td>
+	    </tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="780" colspan="5">
+    &nbsp;</td>
+	</tr>
+	</table>
+
+<p style="margin-top: 1; margin-bottom: 0">&nbsp;</p>
+
+<div align="right">
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-width: 0" width="794" align="right">
+  <tr>
+    <td width="786" style="border-style: none; border-width: medium">
+  <p style="margin-top: 0; margin-bottom: 0" align="left"><b>
+    <font size="1" color="#00FFFF" face="Arial">Site Designed &amp; Maintained by 
+    Jameskutty Thomas</font></b><p align="left" style="margin-top: 0; margin-bottom: 0"> 
+      <font color="#00FFFF" face="Arial"> 
+      <b><font style="font-size: 10pt">&copy;</font><font size="1"> 
+      2016-17</font></b></td>
+  </tr>
+  </table>
+
+        </div>
+
+        </td>
+        </tr>
+        </table>
+          </center>
+    </form>  
+</body>
+</html></title>

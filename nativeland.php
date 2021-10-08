@@ -1,0 +1,481 @@
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+<title>
+	Perumpuzha, My Native Land
+	</title><link href="styles.css" type="text/css" rel="stylesheet" /></head>
+<body style="background-color: #000000" link="#000000">
+          <center>
+
+        <table cellpadding=5 cellspacing=0 bgcolor=#000000 height="1" width='955' style="border-collapse: collapse">
+        <tr bgcolor=white>
+        <td width='181' valign=TOP bgcolor="#000000" height="1">
+            <p style="margin-top: 0; margin-bottom: 0">
+            <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+ WIDTH=169 HEIGHT=161>
+ <PARAM NAME=movie VALUE="images/laser.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000> 
+              <EMBED src="images/laser.swf" quality=high bgcolor=#000000  WIDTH=150 HEIGHT=200 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT>
+            </p>
+            <p align="center" style="margin-top: 0; margin-bottom: 0">
+            <img border="0" src="images1/welcum2.gif" width="183" height="29"></p>
+            
+            <p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+            
+<table bgcolor="#000000" height="100%" width="181" style="border-collapse: collapse" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="TOP" width="181">
+		<table width="177">
+		<TR><TD width="174">
+			<a title="Back to Home Page" href="index.php">
+    <img border="0" src="images1/home.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="About Me" href="about.php">
+    <img border="0" src="images1/aboutme.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Family" href="family.php"><img border="0" src="images1/myfamily.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Friends" href="friends.php">
+            <img border="0" src="images1/myfriends.gif"></a></TD>
+		</TR>
+
+		<TR><TD width="174">
+			<a title="My CV" href="mycv.php">
+            <img border="0" src="images1/mycv.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Subjects" href="subjects.php">
+            <img border="0" src="images1/mysubjects.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Education" href="education.php">
+            <img border="0" src="images1/education.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="Persons influenced" href="inspiration.php">
+            <img border="0" src="images1/inspiration.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="Me In News" href="news.php">
+            <img border="0" src="images1/news.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Favourite Links" href="links.php">
+            <img border="0" src="images1/links.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="Useful Downloads" href="downloads.php">
+            <img border="0" src="images1/downloads.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="Site Map" href="sitemap.php">
+            <img border="0" src="images1/sitemap.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="Frequently Asked Questions" href="faq.php">
+            <img border="0" src="images1/faq.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="Pazhamchollukal" href="pazhamchollukal1.php">
+            <img border="0" src="images1/pazhamchollukal_eng.gif"></a></TD></TR>
+			<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Discussion Forum" href="/forum/index.php">
+            <img border="0" src="images1/forum.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<a title="My Guest Book" href="guestbook/index.php">
+            <img border="0" src="images1/guestbook.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174">
+			<a title="Contact Me" href="contactme.php">
+            <img border="0" src="images1/contactme.gif"></a></TD>
+        </tr>
+
+		<tr>
+          <TD width="174">
+			<a title="&#3374;&#3378;&#3375;&#3390;&#3379; &#3373;&#3390;&#3383;&#3375;&#3391;&#3378;&#3399;&#3349;&#3405;&#3349;&#3405; &#3370;&#3403;&#3349;&#3363;&#3374;&#3398;&#3353;&#3405;&#3349;&#3391;&#3378;&#3405;&#8205;" href="index1.php">
+            <img border="0" src="images1/malayalam.gif"></a></TD>
+        </tr>
+
+		</table>
+
+	</td>
+</tr>
+</table>
+        </td>
+        <td valign=TOP bgcolor="#000000" width="754" height="1">
+            
+
+<p style="margin-top: 0; margin-bottom: 0"><img border="0" src="james1.jpg"><br>
+</p>
+<table width='797' cellpadding="5" cellspacing=0 height="1" style="border-collapse: collapse">
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" colspan="3" width="787" style="border-bottom-style: solid; border-bottom-width: 1">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="center" width="777" colspan="3" style="border-style: solid; border-width: 3; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1" bordercolor="#C0C0C0">
+<p class="MsoNormal" align="center" style="margin-top: 0; margin-bottom: 0">
+<span style="mso-bidi-font-size: 12.0pt; font-weight:700; font-variant:small-caps">
+<font color="#FFFFFF" face="Book Antiqua" size="6">Perumpuzha </font>
+ </span></p>
+<p class="MsoNormal" style="margin-bottom: 3; margin-left:10; margin-right:10" align="justify"><font face="Book Antiqua">
+<font color="#FFFFFF"><span style="font-size:11.0pt;mso-bidi-font-size:12.0pt">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-bidi-font-size:12.0pt"><font size="2"> 
+My Native Land is </font></span> </font> 
+<span style="mso-bidi-font-size:12.0pt">
+<font size="2"> <i><font color="#FFFFFF">Perumpuzha</font></i></font><font size="2" color="#FFFFFF"> 
+in Kollam District, Kerala, India. The junction is the meeting place of 
+Kottiyam-Kundara &amp; Kollam-Veliyam roads. Distance from Kollam is about 
+15Km.&nbsp;Near to junction there is a market&nbsp; called Perumpuzha market. 
+Attornment Hospital is just 5 minutes walk from the junction. If you walk 
+3minutes from junction towards north, a cashew factory is there. My father was 
+working here. Previously it was under the Dalmia Management. The local name for 
+the company was 'Sayippinte Company'. But now it is under CAPEX (A Kerala State 
+Govt. undertaking).</font></span></font><font color="#FFFFFF" size="2">
+</font>
+      </p>
+<p class="MsoNormal" style="margin-bottom: 0; margin-left:10; margin-right:10" align="justify"><font face="Book Antiqua">
+<font color="#FFFFFF" size="2"><span style="mso-bidi-font-size: 12.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></font><span style="mso-bidi-font-size:12.0pt">
+<font color="#FFFFFF" size="2">The roads from junction towards south is to Kureepally, 
+west Punukannoor, north Kundara &amp; towards east Nallila. To reach <b>My Home </b>
+move towards east. The road goes down, within 1Km Thrikkovikkal Temple comes in 
+the left side. Temple pond, paddy fields, canal, etc. Look right &amp; left from the 
+road in the midst of the fields. Green extends to infinity. From Kallupalam, if 
+you turn right &amp; walk by the side of the canal, you can reach my home. But from 
+here about 15 minutes walk is there. During my schooling from 6th level to 
+College, I used this way to walk. I was having a bicycle too to ride. Now, we 
+shall move straight from Kallupalam through the tarred road. See to left side a 
+Kurisupally is there, after which Sharon Pentecost Hall. A 90degree turning 
+towards right and the road goes up, to Arattuvila. See towards right, the house 
+of Charuvila Cheriyachan is there, he was my Sunday School teacher. Go straight. 
+By the right side Melevila Family, after which the Ambanadu family houses 
+starts. This is the root family to which I belongs. I heard that my ancestors 
+were inhabited from Ambanadu a place near to Chathannoor. Thus we were called as 
+Ambanadans. The eldest son in the family was Chacko, my Grand Father. I didn't 
+see him. The eldest son to him was Thomas, my father and to him the eldest was 
+myself. Let us move again towards straight (south). Turn left. Now, you look 
+back towards west. Jacobite Christian Church is there, to which originally I 
+belong, though now I have changed my denomination to Pentecost. Ok, let us move 
+straight (east). From Asan Mukku turn right. Now, if you look back again you can 
+see the road towards Pazhangalam Puthanveettil UP School, where I studied from 1st to 5th 
+level. Now we are reaching Eachadi Mukku. The main road ends here to my home. 
+Turn right through the bye road, it is tarred now. From this junction only 2 
+minutes walk. Yes, a turning is there, turn right. Look straight, My House is 
+there.&nbsp; Enjoy the beauty of this village place staying some days in my 
+home.&nbsp;</font></span></font></p>
+<p class="MsoNormal" style="margin-bottom: 0; margin-left:10; margin-right:10" align="justify" dir="ltr">
+<font color="#FFFFFF" face="Book Antiqua" size="5">
+<span style="mso-bidi-font-size: 12.0pt; font-weight: 700; font-variant: small-caps; text-decoration: underline">
+History of Perupuzha</span></font></p>
+<p class="MsoNormal" style="text-align: justify; margin-left: 10; margin-right: 10" dir="ltr">
+<font color="#FFFFFF">The old name of Perumpuzha is Kurandipalli. The word 
+Kurandi means the “seat” in old Malayalam. Palli indicates the place of worship 
+of Buddhist Monks. Hence the term Kurandipalli means the seat / headquarters of 
+Monks of Pallis in the case of Buddhism, just like the Bhadraasanam (aasanam in 
+Sanskirit means seat) of Bishops in Christianity. There are many places in 
+Kerala having this name.</font></p>
+<p class="MsoNormal" style="margin-left: 30; margin-top: 0; margin-bottom: 0" dir="ltr" align="left">
+<font color="#FFFFFF">For example:</font></p>
+<p class="MsoNormal" style="margin-left: 30; margin-top: 0; margin-bottom: 0" dir="ltr" align="left">
+<font color="#FFFFFF">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kurandipalli in Umayanallur, Kollam Kollam 
+District</font></p>
+<p class="MsoNormal" style="margin-left: 30; margin-top: 0; margin-bottom: 0" dir="ltr" align="left">
+<font color="#FFFFFF">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Korandipalli in Pallippuram, Cherthalai, Alappuzha 
+District</font></p>
+<p class="MsoNormal" style="margin-left: 30; margin-top: 0; margin-bottom: 0" dir="ltr" align="left">
+<font color="#FFFFFF">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Korandipalli in Muttom, Alappuzha Dt</font></p>
+<p class="MsoNormal" style="margin-left: 30; margin-top: 0; margin-bottom: 0" dir="ltr" align="left">
+<font color="#FFFFFF">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Korandipalli in Anchal, Kollam Dt</font></p>
+<p class="MsoNormal" style="margin-left: 30; margin-top: 0; margin-bottom: 0" dir="ltr" align="left">
+<font color="#FFFFFF">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Korandipalli in Perumpuzha, Kollam District</font></p>
+<p class="MsoNormal" style="margin-left: 30; margin-top: 0; margin-bottom: 0" dir="ltr" align="left">
+<font color="#FFFFFF">6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Korandipalli in Venbunad</font></p>
+<p class="MsoNormal" style="margin-left: 30; margin-top: 0; margin-bottom: 0" dir="ltr" align="left">
+<font color="#FFFFFF">7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Korandipalli in Cheravally,Kayamkulam, Alappuzha 
+District</font></p>
+<p class="MsoNormal" dir="ltr" align="justify" style="margin-left: 10; margin-right: 10">
+<font color="#FFFFFF">There was an old Chumad Thaangi and a Vazhiyambalam made 
+up of black rock in Perumbuzha Junction. The old relics of Kurandipalli has been 
+lost due to the negligence and illiteracy of common people in a great History. 
+Once Muslims and Christians were the Buddhists? See, only in Malayalam a common 
+name is used to indicate the place of worship of Muslims and Christians – that 
+is Palli. They both are called Mappila. According to famous historian 
+Dr.M.S.Jayaprakash of Kollam, Mappila is a crude form of Margappilla which means 
+“who embraces a path” (maargam koodiya pilla). Maargam means Ashtaanga Maargam 
+(eight fold path of Buddhism). Even now Muslims uses this term Maarga Kallyaanam 
+for circumcision ceremony which makes a person a real Musalman.(Maagam Kali is a 
+dance by Christians).</font></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="center" width="777" colspan="3">
+            <b>
+    <font color="#FFFFFF" size="2">WikiMapia of my House</font></b></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="777" colspan="3">
+            <p align="center">&nbsp;<iframe src="http://wikimapia.org/s/#lat=8.932292&lon=76.693958&z=17&l=0&m=b&v=1" width="346" height="304" frameborder="0"></iframe></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="461">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="316" colspan="2">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="777" colspan="3">
+            <p align="center">
+            <img border="0" src="images1/perumpuzha-junction.jpg"></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="777" colspan="3">
+            <p align="center">
+    <font color="#FFFFFF" size="2"><b>Perumpuzha Junction</b></font></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="461">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="316" colspan="2">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="461">
+
+
+<p style="margin-top: 0; margin-bottom: 0"><font color="#FFFFFF"><b>
+<a href="http://perumpuzha.com/perumpuzha-pictures.html" target="_blank" style="text-decoration: none">
+<font color="#FFFFFF" size="2">Click here for more Perumpuzha Pictures</font></a></b></font></p>
+
+
+
+<p style="margin-top: 0; margin-bottom: 0"><font color="#FFFFFF" size="2"><b>Also,
+<a href="http://www.perumpuzha.com/gallery/index.php/" target="_blank" style="text-decoration: none"><font color="#FFFFFF">
+Gallery</font></a></b></font></p>
+        </td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="316" colspan="2">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="461">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="316" colspan="2">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td height="1" bgcolor="#000000" align="left" width="461">
+      <p align="center">
+      <font face="Book Antiqua" size="2">
+    <span style="mso-bidi-font-size:10.0pt"><font color="#FFFFFF"><b>Kundara</b> is the nearest town.
+      Which is famous
+in history, for, it was from here that <i> Veluthampi Dalawa</i> issued the famous </font>
+      <i><font color="#FFFFFF">
+Kundara Vilambaram</font></i><font color="#FFFFFF"> in 1809. </font>
+
+</span></font>
+        </td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="316" colspan="2">
+            <font color="#FFFFFF"><o:p>
+      <img border="0" src="images1/velu.jpg" width="103" height="143"></o:p></font></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="461">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="316" colspan="2">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="777" colspan="3">
+            <p align="center">
+      <font color="#FFFFFF">
+      <img border="0" src="images1/kundara-vilambaram.jpg"><img border="0" src="images1/veluthampi-memorial.jpg"></font></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="777" colspan="3">
+      <p align="center"><font color="#FFFFFF" face="Book Antiqua"><b><font size="2">Kundara Vilambaram Memorial</font></b><font size="2"> at Elampalloor 
+      inaugurated by Culture Minister M.A. Baby on 27th November 2007. Elampalloor 
+      was the location from where Velu Thampi Dalawa made the declaration 187 
+      years ago to fight and chase away the British and liberate Travancore. 
+      That declaration came to be known as the </font> <b>
+      <font size="2">Kundara Vilambaram.</font></b><font size="2"> </font> </font>
+      <p align="center"><font color="#FFFFFF" size="2" face="Book Antiqua">Nearby <b>Sreekandan Nair 
+      Sashtiabdhapoorthi Memorial (S.N.S.M) High School</b>, Elampalloor is 
+      the school, where I have done my High School studies.</font></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="777" colspan="3">
+            <p align="center" style="margin-top: 3; margin-bottom: 3">
+      <font color="#FFFFFF"><font face="Book Antiqua" size="2">
+      <span style="mso-bidi-font-size:10.0pt"><font face="Book Antiqua">Large deposits of China Clay discovered in 
+      Kundara helped in the establishment of the Government Ceramics concerns. 
+      The Aluminium Industries (ALIND), Kundara is one
+of the leading Indian firms manufacturing aluminium cables. Kerala Electricals
+and Allied Engineering Company are also located in Kundara.</font></span></font><o:p><font size="2" face="Book Antiqua">
+      </font>
+      </o:p>
+      </font>
+        </td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="777" colspan="3">
+            <p align="center"><b>
+      <font face="Book Antiqua" color="#FFFFFF" size="2"><span style="letter-spacing: 0.4pt">
+            <font face="Book Antiqua">Visit Veluthambi Dalawa's
+Memorial in Kundara during your next visit. It is situated near to Elampalloor
+      Temple.</font></span></font></b></td>
+	</tr>
+	<tr>
+	    <td height="2" bgcolor="#000000" align="left" width="461" rowspan="2">
+            <p align="center"><font face="Book Antiqua" size="2">
+    <span style="mso-bidi-font-size:10.0pt"><b><font color="#FFFFFF"> Mr. Perumpuzha
+Gopalakrishnan</font></b><font color="#FFFFFF"> is a famous Poet, who won the Sambasivan Award for his Collection
+of poems &quot;Pockkuveyilum Chattalmazhayum&quot;.<o:p>
+</o:p>
+    </font>
+</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="136">
+            <p align="center">
+    <font color="#FFFFFF">
+    <img border="0" src="images1/perumpuzhagopalakrishnan.jpg" width="122" height="150"></font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="180">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="136">
+    <p style="margin-top: 0; margin-bottom: 0" align="center">
+    <span style="font-size: 11.0pt; mso-bidi-font-size: 10.0pt">
+    <font face="Book Antiqua" color="#FFFFFF"><b>Sri.Perumpuzha Gopalakrishnan</b></font></span></p>
+    <p style="margin-top: 0; margin-bottom: 0" align="center">
+    <font face="Book Antiqua" color="#FFFFFF" size="2">
+    <span style="mso-bidi-font-size: 10.0pt">Ammu, 119-CMS 
+    Nagar,</span></font><p style="margin-top: 0; margin-bottom: 0" align="center">
+    <font face="Book Antiqua" color="#FFFFFF" size="2">
+    <span style="mso-bidi-font-size: 10.0pt">Thiruvananthapuram-10&nbsp;.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="180">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="777" colspan="3">
+
+<p class="MsoNormal" style="margin-top: 2; margin-bottom: 2" align="justify"><font face="Book Antiqua">
+<span style="mso-bidi-font-size: 10.0pt"> 
+<font color="#FFFFFF" size="2"><b>Kollam</b></font></span><font color="#FFFFFF" size="2"><span style="mso-bidi-font-size:12.0pt"> 
+or Quilon is known as the land of cashews. It </span></font></font>
+<font face="Verdana" size="2" color="#FFFFFF"> an old sea port town on the Arabian coast , stands on the Ashtamudi
+lake. Kollam , the erstwhile Desinganadu, had a sustained commercial reputation
+from the days of
+the Phoenicians and the Romans. Fed by the Chinese trade, it was regarded by Ibn
+Batuta, as one of the five ports , which he had seen in the course of his
+travels during a period of twenty four years, in the 14th century.</font></p>
+
+<p class="MsoNormal" style="margin-top: 4; margin-bottom: 4" align="justify">
+<font face="Verdana" size="2" color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The rulers of kollam (Desinganadu) and China ,
+exchange embassies and there was flourishing Chinese settlement at Kollam.
+Merchant Sulaiman of Siraf in Persia ( 9th Century) found Kollam to be the only
+port in India , touched by the huge Chinese junks , on his way from Carton of
+Persian Gulf. Marco Polo, the great Venician traveller, who was in Chinese
+service under Kublahan in 1275, visited Kollam and other towns on the west
+coast, in his capacity as a Chinese mandarin.
+The Portuguese were the first Europeans to establish a trading center at Kollam
+in 1502. Then came the Dutch followed by the British in 1795. A British garrison
+was stationed at Kollam in pursuance of a treaty between Travancore and the
+British.</font></p>
+
+<p class="MsoNormal" style="margin-top: 4; margin-bottom: 4" align="justify">
+<font color="#FFFFFF"><font size="2">&nbsp;&nbsp;&nbsp;</font><font face="Verdana" size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Velu Thampi Dalawa of&nbsp; Travancore, did much for the improvement of the
+Kollam town. He build new bazaars and invited merchants from Madras and
+Thirunelveli to settle here. Kollam later became the capital of the enlightened
+and liberal rulers of Desinganad. It was also the nerve center for the rebellion
+organized by Velu Thampi against the British. Once a city of palaces, Kollam has been known to the outside world, by the time
+honoured proverb, &quot;Once you have seen Kollam you would no more need your
+illam (Home)&quot;</font></font></p>
+        </td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="461">
+            <font face="Verdana" color="#FFFFFF" size="2"><b>CASHEW</b></font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="316" colspan="2">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="461">
+            <p align="justify">
+            <font face="Verdana" size="2" color="#FFFFFF">Cashew
+      processing is a major industrial activity in the district. The Kerala
+      State Cashew Development Corporation (KSCDC) is the largest processor of
+      cashewnut in the world. At present, it has 34 factories. K.S.C.D.C.
+      provides employment to more than 26,000 workers. K.S.C.D.C. exports cashew
+      kernels and cashewnut sell oil. It also manufactures tannin from cashew
+      testa; a by-product. The available rawnuts in the state can feed the
+      factories to only one third of its capacity and hence rawnuts are imported
+      from abroad.</font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="316" colspan="2">
+            <p align="center">
+    <font color="#FFFFFF">
+    <img alt="Cashew_Factory" src="images1/Cashew_Factory01.jpg" align="left"></font></td>
+	</tr>
+	<tr>
+	    <td height="1" bgcolor="#000000" align="center" width="461">
+            <font color="#FFFFFF"><img border="0" src="images1/flashkollam.gif"></font></td>
+	    <td height="1" bgcolor="#000000" align="center" width="316" colspan="2">
+            <font color="#FFFFFF">
+            <img border="0" src="images1/godsown.jpg" align="left"></font></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="461">
+
+<html>
+
+<body>
+
+<font face="Verdana" size="2">
+<font color="#FFFFFF"><i><b>Link to my 
+Native Land.....</b></i> </font> 
+<a href="http://perumpuzha.com/" target="_blank" style="text-decoration: none">
+<font color="#FFFFFF">http://perumpuzha.com/</font></a><font color="#FFFFFF">
+</font>
+</font><font color="#FFFFFF"></body></html></font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="316" colspan="2">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="461">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="316" colspan="2">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="777" colspan="3">
+            <p align="center"><b><font face="Arial" size="2" color="#00FFFF">
+<a href="http://jameskutty.info" style="text-decoration: none">
+<font color="#00FFFF">Back Home</font></a></font></b></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="461">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="316" colspan="2">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="777" colspan="3">
+            <p style="margin-top: 0; margin-bottom: 0" align="center"><b>
+    <font size="1" color="#00FFFF" face="Arial">Site Designed &amp; Maintained by 
+    Jameskutty Thomas</font></b><p align="center" style="margin-top: 0; margin-bottom: 0"> 
+      <b><font color="#00FFFF" face="Arial"><font style="font-size: 10pt">&copy;</font><font size="1"> 
+      2016-17</font></b></td>
+	</tr>
+	</table>
+
+        </td>
+        </tr>
+        </table>
+          </center>
+    </form>  
+</body>
+</html></title>

@@ -1,0 +1,363 @@
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<title>
+	Frequently Asked Questions
+	</title><link href="styles.css" type="text/css" rel="stylesheet" /></head>
+<body style="background-color: #000000" link="#000000">
+          <center>
+
+        <table cellpadding=5 cellspacing=0 bgcolor=#000000 height="1" width='955' style="border-collapse: collapse">
+        <tr bgcolor=white>
+        <td width='181' valign=TOP bgcolor="#000000" height="1">
+            <p style="margin-top: 0; margin-bottom: 0"><a name="top"></a>
+            <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+ WIDTH=169 HEIGHT=161>
+ <PARAM NAME=movie VALUE="images/laser.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000> 
+              <EMBED src="images/laser.swf" quality=high bgcolor=#000000  WIDTH=150 HEIGHT=200 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT>
+            </p>
+            <p align="center" style="margin-top: 0; margin-bottom: 0">
+            <img border="0" src="images1/welcum2.gif" width="183" height="29"></p>
+            
+            <p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+            
+<table bgcolor="#000000" height="100%" width="181" style="border-collapse: collapse" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="TOP" width="181">
+		<table width="177">
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Back to Home Page" href="index.php">
+    <img border="0" src="images1/home.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="About Me" href="about.php">
+            <img border="0" src="images1/aboutme.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Family" href="family.php"><img border="0" src="images1/myfamily.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Friends" href="friends.php">
+            <img border="0" src="images1/myfriends.gif"></a></TD>
+		</TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My CV" href="mycv.php">
+            <img border="0" src="images1/mycv.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Native Land" href="nativeland.php">
+            <img border="0" src="images1/mynativeland.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Subjects" href="subjects.php">
+            <img border="0" src="images1/mysubjects.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Education" href="education.php">
+            <img border="0" src="images1/education.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Persons influenced" href="inspiration.php">
+            <img border="0" src="images1/inspiration.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Me In News" href="news.php">
+            <img border="0" src="images1/news.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Favourite Links" href="links.php">
+            <img border="0" src="images1/links.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Useful Downloads" href="downloads.php">
+            <img border="0" src="images1/downloads.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174" style="font-family: arial,sans-serif">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="For My Department Friends" href="deptsheet.php">
+            <img border="0" src="images1/dept.gif"></a></TD>
+        </tr>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Site Map" href="sitemap.php">
+            <img border="0" src="images1/sitemap.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Pazhamchollukal" href="pazhamchollukal1.php">
+            <img border="0" src="images1/pazhamchollukal_eng.gif"></a></TD></TR>
+			<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Discussion Forum" href="/forum/index.php">
+            <img border="0" src="images1/forum.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Guest Book" href="guestbook/index.php">
+            <img border="0" src="images1/guestbook.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Contact Me" href="contactme.php">
+            <img border="0" src="images1/contactme.gif"></a></TD>
+        </tr>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3374;&#3378;&#3375;&#3390;&#3379; &#3373;&#3390;&#3383;&#3375;&#3391;&#3378;&#3399;&#3349;&#3405;&#3349;&#3405; &#3370;&#3403;&#3349;&#3363;&#3374;&#3398;&#3353;&#3405;&#3349;&#3391;&#3378;&#3405;&#8205;" href="index1.php">
+            <img border="0" src="images1/malayalam.gif"></a></TD>
+        </tr>
+
+		</table>
+
+	</td>
+</tr>
+</table>
+        </td>
+        <td valign=TOP bgcolor="#000000" width="754" height="1">
+            
+
+<p style="margin-top: 0; margin-bottom: 0"><img border="0" src="james1.jpg"><br>
+</p>
+<table width='797' cellpadding="5" cellspacing=0 height="1" style="border-collapse: collapse">
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" colspan="2" width="787">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="777" colspan="2">
+            <u><b><font face="Arial" size="2" color="#00FFFF">Frequently Asked 
+            Questions </font><font face="Arial" size="2" color="#FF9900">
+            (General)</font></b></u></td>
+	</tr>
+    <tr>
+	    <td height="1" bgcolor="#000000" align="right" width="24">
+    <img border="0" src="images/ayelloball.gif"></td>
+	    <td height="1" bgcolor="#000000" align="left" width="753">
+            <u><b>
+  <font color="#FFFFFF" face="Arial" style="font-size: 9pt">As an Electrical 
+            Engineer, what you suggest in purchasing an Electric Scooter?</font></b></u></td>
+	</tr>
+    <tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="24">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" width="753" style="text-align: justify; text-justify: kashida">
+  <p style="margin-top: 0; margin-bottom: 0" align="justify">
+  <font face="Arial" style="font-size: 9pt" color="#FFFFFF">An Electrical 
+  scooter is mainly having an Electric Motor, an Electronic Controller and a 
+  Battery. Usually the battery is of 48V, comprising 4Nos. of 12V batteries. 
+  Through a charging unit, it may take around 8 hours for fully charging it. For 
+  full charge it may take 1-2 unit of electricity.&nbsp; Using a fully charged 
+  battery, the scooter can travel a maximum of 50km, if it is in good condition.</font></p>
+  <p style="margin-top: 0; margin-bottom: 0" align="justify">
+  <font face="Arial" style="font-size: 9pt" color="#FFFFFF">Regarding the 
+  technology applied for the electric scooter, I am fully satisfied. But, I 
+  can't suggest you to purchase one atleast for the time being. You may wait 
+  until a good modern service station comes to your locality with facilities to 
+  repair the motor, controller, battery and the charging unit. Don't fall into 
+  unnecessary promises, untill you are fully convinced.</font></p>
+        </td>
+	</tr>
+    <tr>
+	    <td height="1" bgcolor="#000000" align="right" width="24">
+    <img border="0" src="images/ayelloball.gif"></td>
+	    <td height="1" bgcolor="#000000" width="753" style="text-align: justify; text-justify: kashida">
+            <u><b>
+  <font color="#FFFFFF" face="Arial" style="font-size: 9pt">As you are 
+            concentrated to the technologies of Electrical Engineering and 
+            Photonics, what&nbsp; type of broadband internet connection will be 
+            suggested, in safety aspects? </font></b></u></td>
+	</tr>
+    <tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="24">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" width="753" style="text-align: justify; text-justify: kashida">
+  <p style="margin-top: 0; margin-bottom: 0" align="justify">
+  <font face="Arial" style="font-size: 9pt" color="#FFFFFF">Always I suggest the 
+  broadband connections in optical signal form, to the nearest of your house. 
+  There will be a control unit, which will convert the optical signal to 
+  electrical signal and through the cable it reaches to your computer system. 
+  The length of the electrical signal carrying cable shall be to its minimum, so 
+  that lightning strokes could be minimum affecting your system. </font></p>
+        </td>
+	</tr>
+    <tr>
+	    <td height="1" bgcolor="#000000" align="right" width="24">
+    <img border="0" src="images/ayelloball.gif"></td>
+	    <td height="1" bgcolor="#000000" width="753" style="text-align: justify; text-justify: kashida">
+            <u><b>
+  <font color="#FFFFFF" face="Arial" style="font-size: 9pt">How to clean a CDV 
+            or CD Disc? </font></b></u></td>
+	</tr>
+    <tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="24">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" width="753" style="text-align: justify; text-justify: kashida">
+  <p style="margin-top: 0; margin-bottom: 0" align="justify">
+  <font style="font-size: 9pt" face="Arial" color="#FFFFFF">Wipe the disc 
+  surface in a non-radial back-and-forth motion (from the center hole to the 
+  outer edge). Don't follow the concentric circles while cleaning.
+  <a href="http://labnol.blogspot.com/2006/07/how-to-clean-dvd-or-cd-disc.html" style="text-decoration: none">
+  <font color="#FFFFFF">Read more..... </font></a></font></p>
+        </td>
+	</tr>
+    <tr>
+	    <td height="1" bgcolor="#000000" align="right" width="24">
+    <img border="0" src="images/ayelloball.gif"></td>
+	    <td height="1" bgcolor="#000000" width="753" style="text-align: justify; text-justify: kashida">
+            <u><b>
+  <font color="#FFFFFF" face="Arial" style="font-size: 9pt">How the starting 
+            current of motor reaches high? </font></b></u></td>
+	</tr>
+    <tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="24">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" width="753" style="text-align: justify; text-justify: kashida">
+  <p style="margin-top: 0; margin-bottom: 0" align="justify">
+  <font style="font-size: 9pt" face="Arial" color="#FFFFFF">At the time of 
+  starting of motors, the back emf is nearly zero, so there is no opposing 
+  voltage. So at the time of starting the current is more. Later when the speed 
+  is builds up, back emf develops, the current become low.</font></p>
+        </td>
+	</tr>
+    <tr>
+	    <td height="1" bgcolor="#000000" align="right" width="24">
+    <img border="0" src="images/ayelloball.gif"></td>
+	    <td height="1" bgcolor="#000000" width="753" style="text-align: justify; text-justify: kashida">
+            <u><b><font face="Arial" style="font-size: 9pt" color="#FFFFFF">How 
+            to prevent Firefox in blocking popups?</font></b></u></td>
+	</tr>
+    <tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="24">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" width="753" style="text-align: justify; text-justify: kashida">
+  <p style="margin-top: 0; margin-bottom: 0" align="justify">
+  <font face="Arial" style="font-size: 9pt" color="#FFFFFF">Go to Tools---&gt; 
+  Options ---&gt; Content ---&gt; Delete tick for &quot;Block pop-up windows. Or add, the 
+  website to be opened without popup blocking action, add the exact web address 
+  in &quot;Exceptions.</font></p>
+        </td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="777" colspan="2">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="777" colspan="2">
+            <u><b><font face="Arial" size="2" color="#00FFFF">
+            <a href="faq1.php"><font color="#00FFFF">Frequently Asked Questions
+            </font><font color="#FF9900">(Technical)</font></a></font></b></u></td>
+	</tr>
+	<tr>
+	    <td height="1" bgcolor="#000000" align="right" width="24">
+    <img border="0" src="images/ayelloball.gif"></td>
+	    <td height="1" bgcolor="#000000" width="753" style="text-align: justify; text-justify: kashida">
+            <u><b><font face="Arial" style="font-size: 9pt" color="#FFFFFF">
+            <a href="faq1.php"><font color="#FFFFFF">Please click here for the technical FAQ.</font></a></font></b></u></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="777" colspan="2">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="777" colspan="2">
+            &nbsp;</td>
+	</tr>
+	</table>
+
+<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+
+<div align="right">
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-width: 0" width="794" align="right">
+  <tr>
+    <td width="786" style="border-style: none; border-width: medium">
+  <p style="margin-top: 0; margin-bottom: 0" align="center"><b>
+    <font size="1" color="#00FFFF" face="Arial">Site Designed &amp; Maintained by 
+    Jameskutty Thomas</font></b><p align="center" style="margin-top: 0; margin-bottom: 0"> 
+      <b><font color="#00FFFF" face="Arial"><font style="font-size: 10pt">&copy;</font><font size="1"> 
+      2015-16</font></b></td>
+  </tr>
+  </table>
+
+        </div>
+
+        </td>
+        </tr>
+        </table>
+          </center>
+    </form>  
+<table width="942" border="0" height="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse"> <tr> 
+    <td class="contents" height="1" width="1" align="center" valign="top">  
+    </td> 
+    <td class="contents" vAlign="top" height="1" width="482" style="text-align: justify; text-justify: kashida">  
+    </td> 
+  </tr> <tr> 
+    <td class="contents" height="1" width="1" align="center">  
+    </td> 
+    <td class="contents" vAlign="top" height="1" width="482" align="justify">  
+    </td> 
+  </tr> <tr> 
+    <td class="contents" height="1" width="1" align="center">  
+    </td> 
+    <td class="contents" vAlign="top" height="1" width="482" align="justify">  
+    </td> 
+  </tr> <tr> 
+    <td class="contents" height="1" width="1" align="center">  
+    </td> 
+    <td class="contents" vAlign="top" height="1" width="482" align="justify">  
+    </td> 
+  </tr> <tr> 
+    <td class="contents" height="1" width="1" align="center">  
+    </td> 
+    <td class="contents" vAlign="top" height="1" width="482" align="justify">  
+    </td> 
+  </tr> <tr> 
+    <td class="contents" height="1" width="1" align="center">  
+    </td> 
+    <td class="contents" vAlign="top" height="1" width="482" align="justify">  
+    </td> 
+  </tr>  
+  <tr> 
+    <td class="contents" vAlign="top" height="1" width="1" align="center">  
+    </td> 
+    <td class="contents" vAlign="top" height="1" width="363" align="left">  
+    </td> 
+  </tr> 
+  <tr> 
+    <td class="contents" vAlign="top" height="1" width="1" align="center">  
+    </td> 
+    <td class="contents" vAlign="top" height="1" width="482" align="center">  
+    </td> 
+  </tr> 
+  <tr> 
+    <td class="contents" vAlign="top" height="1" width="1" align="center">  
+    </td> 
+    <td class="contents" vAlign="top" height="1" width="482" align="center">  
+    </td> 
+  </tr> 
+  <tr> 
+    <td class="contents" vAlign="top" height="1" width="1" align="center">  
+    </td> 
+    <td class="contents" vAlign="top" height="1" width="482" align="center">  
+    </td> 
+  </tr> </table>
+</body>
+</html></title>

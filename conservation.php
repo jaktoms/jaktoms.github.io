@@ -1,0 +1,515 @@
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<title>
+	Electrical Conservation
+	</title><link href="styles.css" type="text/css" rel="stylesheet" /></head>
+<body style="background-color: #000000" link="#000000">
+          <center>
+
+        <table cellpadding=5 cellspacing=0 bgcolor=#000000 height="1" width='955' style="border-collapse: collapse">
+        <tr bgcolor=white>
+        <td width='181' valign=TOP bgcolor="#000000" height="1">
+            <p style="margin-top: 0; margin-bottom: 0">
+            <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+ WIDTH=169 HEIGHT=161>
+ <PARAM NAME=movie VALUE="images/laser.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000> 
+              <EMBED src="images/laser.swf" quality=high bgcolor=#000000  WIDTH=150 HEIGHT=200 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT>
+            </p>
+            <p style="margin-top: 0; margin-bottom: 0">
+            <img border="0" src="images1/welcum2.gif" width="183" height="29"></p>
+            
+            <p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+            
+<table bgcolor="#000000" height="100%" width="181" style="border-collapse: collapse" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="TOP" width="181">
+		<table width="177">
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Back to Home Page" href="index.php">
+    <img border="0" src="images1/home.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="About Me" href="about.php">
+            <img border="0" src="images1/aboutme.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Family" href="family.php"><img border="0" src="images1/myfamily.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Friends" href="friends.php">
+            <img border="0" src="images1/myfriends.gif"></a></TD>
+		</TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My CV" href="mycv.php">
+            <img border="0" src="images1/mycv.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Native Land" href="nativeland.php">
+            <img border="0" src="images1/mynativeland.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Subjects" href="subjects.php">
+            <img border="0" src="images1/mysubjects.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174" style="font-family: arial,sans-serif">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Education" href="education.php">
+            <img border="0" src="images1/education.gif"></a></TD>
+        </tr>
+        <tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Persons influenced" href="inspiration.php">
+            <img border="0" src="images1/inspiration.gif"></a></TD>
+        </tr>
+        <tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Me In News" href="news.php">
+            <img border="0" src="images1/news.gif"></a></TD>
+        </tr>
+        <tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Favourite Links" href="links.php">
+            <img border="0" src="images1/links.gif"></a></TD>
+        </tr>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Useful Downloads" href="downloads.php">
+            <img border="0" src="images1/downloads.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174" style="font-family: arial,sans-serif">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="For My Department Friends" href="deptsheet.php">
+            <img border="0" src="images1/dept.gif"></a></TD>
+        </tr>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Site Map" href="sitemap.php">
+            <img border="0" src="images1/sitemap.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Frequently Asked Questions" href="faq.php">
+            <img border="0" src="images1/faq.gif"></a></TD>
+        </tr>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Pazhamchollukal" href="pazhamchollukal1.php">
+            <img border="0" src="images1/pazhamchollukal_eng.gif"></a></TD></TR>
+			<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Discussion Forum" href="/forum/index.php">
+            <img border="0" src="images1/forum.gif"></a></TD></TR>
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Guest Book" href="guestbook/index.php">
+            <img border="0" src="images1/guestbook.gif"></a></TD>
+        </tr>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Contact Me" href="contactme.php">
+            <img border="0" src="images1/contactme.gif"></a></TD>
+        </tr>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3374;&#3378;&#3375;&#3390;&#3379; &#3373;&#3390;&#3383;&#3375;&#3391;&#3378;&#3399;&#3349;&#3405;&#3349;&#3405; &#3370;&#3403;&#3349;&#3363;&#3374;&#3398;&#3353;&#3405;&#3349;&#3391;&#3378;&#3405;&#8205;" href="index1.php">
+            <img border="0" src="images1/malayalam.gif"></a></TD>
+        </tr>
+
+		</table>
+
+	</td>
+</tr>
+</table>
+        </td>
+        <td valign=TOP bgcolor="#000000" width="754" height="1">
+            
+
+<p style="margin-top: 0; margin-bottom: 0"><img border="0" src="james1.jpg"><br>
+</p>
+<table width='797' cellpadding="5" cellspacing=0 height="2" style="border-collapse: collapse">
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" colspan="2" width="787">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="28">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="749">
+            <u><b>
+    <font face="Arial" size="2" color="#00FFFF">Electrical Conservation</font></b></u></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="28">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="749">
+  <span style="font-size: 9.0pt; font-family: Arial"><font color="#FFFFFF">Your
+  </font><font color="#FFCC00"><b>electricity</b></font><font color="#FFFFFF"> 
+  bills need not be as high as they are.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="28">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="749">
+  <span style="font-size: 9.0pt; font-family: Arial"><font color="#FFFFFF">Do 
+  follow these simple guidelines for saving electricity.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="28">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="749">
+  <p style="word-spacing: 0pt; line-height: 100%; margin-top: 0pt; margin-bottom: 0pt;">
+  <span style="font-size: 9.0pt; font-family: Arial"><font color="#FFFFFF">Cut 
+  down your bills and help the nation make better use of its resources.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="28">
+            <img border="0" src="images/ayelloball.gif" align="right"></td>
+	    <td valign=top height="1" bgcolor="#000000" align="center" width="749">
+            <p style="word-spacing: 0pt; line-height: 100%; margin-top: 0pt; margin-bottom: 0pt;" align="left">
+            <span style="font-size: 9.0pt; font-family: Arial; font-weight: 700">
+            <font color="#FF9900">Tips for electricity conservation at home</font></span></p>
+            <p style="word-spacing: 0pt; line-height: 100%; margin-top: 0pt; margin-bottom: 0pt;" align="left">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">You can save up to 20% - 30% of your bill 
+            money by following these simple steps:</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="28">
+            <p align="right"><font color="#FFFFFF">
+            <span style="font-size: 9.0pt; font-family: Arial">1.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" align="center" width="749">
+            <p align="left"><font color="#FFFFFF">
+            <span style="font-size: 9.0pt; font-family: Arial">Use always the 
+            natural air and light; do not switch on lights during the day.
+            </span></font></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font style="font-size: 9.0pt; font-family: Arial" color="#FFFFFF">
+            2.</font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <font color="#FFFFFF">
+            <span style="font-size: 9.0pt; font-family: Arial">Promptly switch 
+            off the lights and fans when the occupants leave the room / hall.
+            </span></font></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font style="font-size: 9.0pt; font-family: Arial" color="#FFFFFF">
+            3.</font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <font color="#FFFFFF">
+            <span style="font-size: 9.0pt; font-family: Arial">Slim tube lights 
+            give better light and consume less electricity than the filament 
+            lamps. </span></font></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font style="font-size: 9.0pt; font-family: Arial" color="#FFFFFF">
+            4.</font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Avoid opening the refrigerator frequently. 
+            Defrost it regularly.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9.0pt">5.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Dry your clothes in the sun instead of using 
+            the dryer in the washing machine.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">6.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Use pressure cookers and avoid using 
+            electrical appliances as far as possible.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">7.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="752" style="text-align: justify; text-justify: kashida">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">The electricity consumption by your geyser can 
+            be considerably reduced if the members of your family bathe in quick 
+            succession and switch it off as soon as it is no longer required.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">8.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Avoid switching in of heavy duty appliances 
+            during peak hours, i.e., 6 a.m. to 9 a.m., and 5 p.m. to 8 p.m.</font></span></td>
+	</tr>
+	<tr>
+	    <td height="1" bgcolor="#000000" align="right" width="28">
+            <p style="margin-top: 10">
+            <img border="0" src="images/ayelloball.gif" align="right"></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <p style="margin-top: 10">
+            <span style="font-size: 9.0pt; font-family: Arial; font-weight: 700">
+            <font color="#FF9900">Tips for electricity conservation at shops and 
+            business establishments</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">1.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Avoid excessive illumination. Please keep only 
+            as many fans and lights on as you need.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">2.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Do not use neon sign boards. Use only painted 
+            sign boards.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">3.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Use energy saving compact fluorescent lamps 
+            for the illumination of your shops, showrooms, or hotels.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">4.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="752" style="text-align: justify; text-justify: kashida">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Try to switch on your room air conditioners 
+            and coolers at least one hour late and switch off one hour early. 
+            Preferably, do not use these heavy duty appliances.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">5.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Please close the shops and showrooms precisely 
+            by 8 p.m. at night.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">6.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Use solar water heaters for hot water 
+            requirements of your hotels and lodges.</font></span></td>
+	</tr>
+	<tr>
+	    <td height="1" bgcolor="#000000" align="right" width="28">
+            <p style="margin-top: 10">
+            <img border="0" src="images/ayelloball.gif" align="right"></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <p style="margin-top: 10">
+            <span style="font-size: 9.0pt; font-family: Arial; font-weight: 700">
+            <font color="#FF9900">Tips for electricity conservation in 
+            industrial establishments</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">1.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Match motor size to actual requirements.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">2.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Lubricate your machines at regular intervals. 
+            Replace the damaged bearings promptly.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">3.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Place your motor as close to the load as 
+            possible.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">4.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Provide shunt capacitors across the motor 
+            terminals.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">5.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Tighten drive belts at regular intervals.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">6.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Use natural lights and air to the maximum 
+            extent, and avoid switching on lights and fans.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">7.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Make out optimal production schedules to 
+            ensure the least period of operation of each individual machine.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">8.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Switch off the machines promptly when they are 
+            not being used.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="2" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">9.</span></font></td>
+	    <td valign=top height="2" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Switch off all the unused lights and fans, so 
+            also all the machines during the lunch hours and shift changeover 
+            periods.</font></span></td>
+	</tr>
+	<tr>
+	    <td height="1" bgcolor="#000000" align="right" width="28">
+            <p style="margin-top: 10">
+            <img border="0" src="images/ayelloball.gif" align="right"></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <p style="margin-top: 10">
+            <span style="font-size: 9.0pt; font-family: Arial; font-weight: 700">
+            <font color="#FF9900">Tips for electricity conservation in farms</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">1.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Provide shunt capacitors at terminals of your 
+            three-phase motor to help reduce current and ensure longer life to 
+            your pumpset.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">2.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Use rigid PVC pipes to get more discharge.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">3.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Avoid sharp bends and too many joints in the 
+            suction and delivery lines.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">4.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Use low-resistance foot valves.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">5.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Lubricate pump sets at regular intervals.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            <font color="#FFFFFF">
+            <span style="font-family: Arial; font-size: 9pt">6.</span></font></td>
+	    <td valign=top height="1" bgcolor="#000000" width="749">
+            <span style="font-size: 9.0pt; font-family: Arial">
+            <font color="#FFFFFF">Choose suitable crop mix so that at least one 
+            crop in a year is grown with least water consumption.</font></span></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" width="749" style="text-align: justify; text-justify: kashida">
+    <a href="electrical.php"><img border="0" src="images/go_back.gif"></a></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="right" width="28">
+            &nbsp;</td>
+	    <td valign=top height="1" bgcolor="#000000" width="749" style="text-align: justify; text-justify: kashida">
+    <p style="margin-top: 0; margin-bottom: 0" align="left"><b>
+    <font size="1" color="#00FFFF" face="Arial">Site Designed &amp; Maintained by 
+    Jameskutty Thomas</font></b><p align="left" style="margin-top: 0; margin-bottom: 0"> 
+      <b><font color="#00FFFF" face="Arial"><font style="font-size: 10pt">&copy;</font><font size="1"> 
+      2016-17</font></td>
+	</tr>
+	</table>
+
+        </td>
+        </tr>
+        </table>
+          </center>
+    </form>  
+</body>
+</html></title>

@@ -1,0 +1,594 @@
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+<title>
+	Jameskutty Thomas
+	</title><link href="styles.css" type="text/css" rel="stylesheet" />
+	
+<!--
+Specify the look and feel of the Headliner (only for IE4 and NS4)
+Always use a non proportional font and specify 'monospace' at the end
+-->
+<style type="text/css">
+  .stHeadliner {background-position: 0% 0%; font-family: arial, monospace;
+                font-size: 12;
+                font-weight: bold;
+                font-style: auto;
+                color: #00FF00;
+                text-transform: auto;
+                text-align: center;
+                width: 100%;
+                height: auto;
+                border-style: none;
+                cursor: hand; background-color:transparent; background-repeat:repeat; background-attachment:scroll}
+
+td {font-family: arial,sans-serif}
+.bubble {background-color:#C3D9FF}
+
+</style>
+
+<link rev="made" href="mailto:james@jameskutty.info"></head>
+<body style="background-color: #000000" link="#000000">
+          <center>
+
+        <table cellpadding=5 cellspacing=0 bgcolor=#000000 height="1" width='955' style="border-collapse: collapse">
+        <tr bgcolor=white>
+        <td width='181' valign=TOP bgcolor="#000000" height="1">
+            <p style="margin-top: 0; margin-bottom: 0">
+            <OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+ WIDTH=169 HEIGHT=161>
+ <PARAM NAME=movie VALUE="images/laser.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000000> 
+              <EMBED src="images/laser.swf" quality=high bgcolor=#000000  WIDTH=150 HEIGHT=200 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT>
+</p>
+            <p align="center" style="margin-top: 0; margin-bottom: 0">
+            <img border="0" src="images1/welcum2.gif" width="183" height="29"></p>
+            
+            <p align="center" style="margin-top: 0; margin-bottom: 0">
+            &nbsp;</p>
+            
+<table bgcolor="#000000" height="100%" width="181" style="border-collapse: collapse" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="TOP" width="181">
+		<table width="177">
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="About Me" href="about.php">
+    <img border="0" src="images1/aboutme.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Family" href="family.php"><img border="0" src="images1/myfamily.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Friends" href="friends.php">
+            <img border="0" src="images1/myfriends.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My CV" href="mycv.php">
+            <img border="0" src="images1/mycv.gif"></a></TD>
+		</TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Native Land" href="nativeland.php">
+            <img border="0" src="images1/mynativeland.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Subjects" href="subjects.php">
+            <img border="0" src="images1/mysubjects.gif"></a></TD>
+        </tr>
+        <tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Education" href="education.php">
+            <img border="0" src="images1/education.gif"></a></TD>
+        </tr>
+        <tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Persons influenced" href="inspiration.php">
+            <img border="0" src="images1/inspiration.gif"></a></TD>
+        </tr>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Me In News" href="news.php">
+            <img border="0" src="images1/news.gif"></a></TD>
+        </tr>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Favourite Links" href="links.php">
+            <img border="0" src="images1/links.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Useful Downloads" href="downloads.php">
+            <img border="0" src="images1/downloads.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="For My Department Friends" href="index.php#library">
+            <img border="0" src="images1/dept.gif"></a></TD>
+        </tr>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Site Map" href="sitemap.php">
+            <img border="0" src="images1/sitemap.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Frequently Asked Questions" href="faq.php">
+            <img border="0" src="images1/faq.gif"></a></TD></TR>
+
+		<tr>
+          <TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Pazhamchollukal" href="pazhamchollukal1.php">
+            <img border="0" src="images1/pazhamchollukal_eng.gif"></a></TD>
+        </tr>
+			<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Discussion Forum" href="/forum/index.php">
+            <img border="0" src="images1/forum.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="My Guest Book" href="guestbook/index.php">
+            <img border="0" src="images1/guestbook.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="Contact Me" href="contactme.php">
+            <img border="0" src="images1/contactme.gif"></a></TD></TR>
+
+		<TR><TD width="174">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a title="&#3374;&#3378;&#3375;&#3390;&#3379; &#3373;&#3390;&#3383;&#3375;&#3391;&#3378;&#3399;&#3349;&#3405;&#3349;&#3405; &#3370;&#3403;&#3349;&#3363;&#3374;&#3398;&#3353;&#3405;&#3349;&#3391;&#3378;&#3405;&#8205;" href="index1.php">
+            <img border="0" src="images1/malayalam.gif"></a></TD></TR>
+
+		</table>
+
+	</td>
+</tr>
+</table>
+        </td>
+        <td valign=TOP bgcolor="#000000" width="754" height="1">
+            
+
+<p style="margin-top: 0; margin-bottom: 0">
+<img border="0" src="james1.jpg" width="661" height="171"><br>
+</p>
+<table width='797' cellpadding="5" cellspacing=0 height="148" style="border-collapse: collapse">
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" colspan="2" width="787">
+            <p style="margin-top: 0; margin-bottom: 0">&nbsp;<SCRIPT LANGUAGE="JavaScript">
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Begin
+var Today=new Date();
+var ThisDay=Today.getDay();
+var ThisDate=Today.getDate();
+var ThisMonth=Today.getMonth()+1;
+var ThisYear=Today.getFullYear();  //included if you wish to insert the year
+function DayTxt (DayNumber) {
+var Day=new Array();
+Day[0]="Sunday";
+Day[1]="Monday";
+Day[2]="Tuesday";
+Day[3]="Wednesday";
+Day[4]="Thursday";
+Day[5]="Friday";
+Day[6]="Saturday";
+return Day[DayNumber];
+}
+var DayName=DayTxt(ThisDay);
+function MonthTxt (MonthNumber) {
+var Month=new Array();
+Month[1]="January";
+Month[2]="February";
+Month[3]="March";
+Month[4]="April";
+Month[5]="May";
+Month[6]="June";
+Month[7]="July";
+Month[8]="August";
+Month[9]="September";
+Month[10]="October";
+Month[11]="November";
+Month[12]="December";
+return Month[MonthNumber];
+}
+var MonthName=MonthTxt(ThisMonth);
+var d = new Date();
+var h = d.getHours();
+if (h < 2) document.write("<P ALIGN=left>"+"<font color='00FFFF'>"+"<b>"+"Good Morning! Namaskaram! Yes, it's way past midnight."+"</b></font>"+"</P>");
+else if (h < 3) document.write("<P ALIGN=left>"+"<font color='00FFFF'>"+"<b>"+"Good Morning! Namaskaram! Up early or working late?"+"</b></font>"+"</P>");
+else if (h < 7) document.write("<P ALIGN=left>"+"<font color='00FFFF'>"+"<b>"+"Good Morning! Namaskaram! Up bright and early!"+"</b></font>"+"</P>");
+else if (h < 12) document.write("<P ALIGN=left>"+"<font color='00FFFF'>"+"<b>"+"Good Morning! Namaskaram!"+"</b></font>"+"</P>");
+else if (h < 17) document.write("<P ALIGN=left>"+"<font color='00FFFF'>"+"<b>"+"Good Afternoon!"+"</b></font>"+"</P>");
+else if (h < 23) document.write("<P ALIGN=left>"+"<font color='00FFFF'>"+"<b>"+"Good Evening!"+"</b></font>"+"</P>");
+else document.write("<P ALIGN=left>"+"<font color='00FFFF'>"+"<b>"+"A late good evening! Not much left of it now."+"</b></font>"+"</P>");
+//  End -->
+            </script></td>
+	</tr>
+	<tr>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="649">
+      <p style="margin-top: 10; margin-bottom: 0"><SCRIPT LANGUAGE="JavaScript">
+<!-- This Script Created by Jameskutty Thomas: mailto:james@jameskutty.info -->
+<!-- start hide
+
+// ************************************************************
+//  First, some variables you can change as you like it
+// ************************************************************
+
+// Delay in milliseconds for the typewriting headliner
+typeWriterWait=120
+
+// Delay in milliseconds for displaying the text for the blinking headliner
+blinkTextWait=1000
+
+// Delay in milliseconds for displaying nothing for the blinking headliner
+blinkSpacesWait=300
+
+// Number of times to blink
+blinkMax=5
+
+// Delay in milliseconds per character for the expanding headliner
+expandWait=100
+
+// Delay in milliseconds per character for the scrolling headliner
+scrollWait=90
+
+// Number of characters in scrolling zone for the scrolling headliner
+scrollWidth=40
+
+// Should the lines be chosen randomly (true or false)
+randomLines=false
+
+// ************************************************************
+// Second, specify the lines of text
+// ************************************************************
+
+// Number of lines, specify as much as you want to use
+lineMax=10
+lines=new Array(lineMax)
+
+// Define the lines as follows (text to display, url or mailto, frame name, which effect, time to wait after displaying)
+// See the headliner.txt for more info on this variables
+lines[1]=new Line("Hi, My name is Jameskutty Thomas. Nice to meet you.", "http://www.jameskutty.info", "", Blink, 500)
+lines[2]=new Line("More than my personal data, lot of informations are here for you","http://www.jameskutty.info/faq1.php", "", TypeWriter, 2000)
+lines[3]=new Line("Check out the informations about my native place, Perumpuzha!", "http://www.jameskutty.info/nativeland.php", "", Scroll, 1000)
+lines[4]=new Line("Hmm... many useful LINKS for you....", "http://www.jameskutty.info/links.php", "new_window", Expand, 3000)
+lines[5]=new Line("If you are somehow related with my department, you must visit here","https://jameskutty.info/index.php#library", "", Static, 2500)
+lines[6]=new Line("Click here to know the Generating Stations in Kerala!", "http://www.jameskutty.info/kerala_generation.php", "", Scroll, 1000)
+lines[7]=new Line("Do you know about PHOTONICS? Click here", "http://www.jameskutty.info/photonics.php", "new_window", Expand, 3000)
+lines[8]=new Line("Don't forget to leave me a comment in the Guest Book!", "http://www.jameskutty.info/guestbook.php", "", Scroll, 1000)
+lines[9]=new Line("Click now to email me a message", "mailto:james@jameskutty.info", "", TypeWriter, 2000)
+lines[10]=new Line("", "", "", Static, 2500)
+
+// Some other variables (just do not change)
+lineText=""
+timerID=null
+timerRunning=false
+spaces=""
+charNo=0
+charMax=0
+charMiddle=0
+lineNo=0
+lineWait=0
+
+// ************************************************************
+// The functions to get things going
+// ************************************************************
+
+// Define a line object
+function Line(text, url, frame, type, wait) {
+	this.text=text
+	this.url=url
+	this.frame=frame
+	this.Display=type
+	this.wait=wait
+}
+
+// Fill a string with n chars c
+function StringFill(c, n) {
+	var s=""
+	while (--n >= 0) {
+		s+=c
+	}
+	return s
+}
+
+// Returns a integer number between 1 and max that differs from the old one
+function getNewRandomInteger(oldnumber, max)
+{
+	var n=Math.floor(Math.random() * (max - 1) + 1)
+	if (n >= oldnumber) {
+		n++
+	}
+	return n
+}
+
+// Returns a integer number between 1 and max
+function getRandomInteger(max)
+{
+	var n=Math.floor(Math.random() * max + 1)
+	return n
+}
+
+// Jump to the specified url in the specified frame
+function GotoUrl(url, frame) {
+	if (frame != '') {
+		if (frame == 'self') self.location.href=url
+		else if (frame == 'parent') parent.location.href=url
+		else if (frame == 'top') top.location.href=url
+		else {
+			s=eval(top.frames[frame])
+			if (s != null) top.eval(frame).location.href=url
+			else window.open(url, frame, "toolbar=yes,status=yes,scrollbars=yes")
+		}
+	}
+	else window.location.href=url
+}
+
+function Static() {
+	document.formDisplay.buttonFace.value=this.text
+	timerID=setTimeout("ShowNextLine()", this.wait)
+}
+
+function TypeWriter() {
+	lineText=this.text
+	lineWait=this.wait
+	charMax=lineText.length
+	spaces=StringFill(" ", charMax)
+	TextTypeWriter()
+}
+
+function TextTypeWriter() {
+	if (charNo <= charMax) {
+		document.formDisplay.buttonFace.value=lineText.substring(0, charNo)+spaces.substring(0, charMax-charNo)
+		charNo++
+		timerID=setTimeout("TextTypeWriter()", typeWriterWait)
+	}
+	else {
+		charNo=0
+		timerID=setTimeout("ShowNextLine()", lineWait)
+	}
+}
+
+function Blink() {
+	lineText=this.text
+	charMax=lineText.length
+	spaces=StringFill(" ", charMax)
+	lineWait=this.wait
+	TextBlink()
+}
+
+function TextBlink() {
+	if (charNo <= blinkMax * 2) {
+		if ((charNo % 2) == 1) {
+			document.formDisplay.buttonFace.value=lineText
+			blinkWait=blinkTextWait
+		}
+		else {
+			document.formDisplay.buttonFace.value=spaces
+			blinkWait=blinkSpacesWait
+		}
+
+		charNo++
+		timerID=setTimeout("TextBlink()", blinkWait)
+	}
+	else {
+		charNo=0
+		timerID=setTimeout("ShowNextLine()", lineWait)
+	}
+}
+
+function Expand() {
+	lineText=this.text
+	charMax=lineText.length
+	charMiddle=Math.round(charMax / 2)
+	lineWait=this.wait
+	TextExpand()
+}
+
+function TextExpand() {
+	if (charNo <= charMiddle) {
+		document.formDisplay.buttonFace.value=lineText.substring(charMiddle - charNo, charMiddle + charNo)
+		charNo++
+		timerID=setTimeout("TextExpand()", expandWait)
+	}
+	else {
+		charNo=0
+		timerID=setTimeout("ShowNextLine()", lineWait)
+	}
+}
+
+function Scroll() {
+	spaces=StringFill(" ", scrollWidth)
+	lineText=spaces+this.text
+	charMax=lineText.length
+	lineText+=spaces
+	lineWait=this.wait
+	TextScroll()
+}
+
+function TextScroll() {
+	if (charNo <= charMax) {
+		document.formDisplay.buttonFace.value=lineText.substring(charNo, scrollWidth+charNo)
+		charNo++
+		timerID=setTimeout("TextScroll()", scrollWait)
+	}
+	else {
+		charNo=0
+		timerID=setTimeout("ShowNextLine()", lineWait)
+	}
+}
+
+function StartHeadliner() {
+	StopHeadliner()
+	timerID=setTimeout("ShowNextLine()", 2000)
+	timerRunning=true
+}
+
+function StopHeadliner() {
+	if (timerRunning) { 
+		clearTimeout(timerID)
+		timerRunning=false
+	}
+}
+
+function ShowNextLine() {
+	if (randomLines) lineNo=getNewRandomInteger(lineNo, lineMax)
+	else (lineNo < lineMax) ? lineNo++ : lineNo=1
+	lines[lineNo].Display()
+}
+
+function LineClick(lineNo) {
+	document.formDisplay.buttonFace.blur()
+	if (lineNo > 0) GotoUrl(lines[lineNo].url, lines[lineNo].frame)
+}
+
+// Do not change the name of the form or the button!
+with (document) {
+	write('<div align="center"><form name="formDisplay"><input class="stHeadliner" type="button"')
+	write('name="buttonFace" value="Hi Friends"')
+	write('onClick="LineClick(lineNo)"></input></form></div>')
+}
+
+// end hide -->
+
+      </script></td>
+	    <td valign=top height="1" bgcolor="#000000" align="left" width="128">
+            <p style="margin-top: 10; margin-bottom: 0">&nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="52" bgcolor="#000000" width="670" style="text-align: justify; text-justify: kashida" rowspan="2">
+<p style="text-align: center">
+<body onLoad="StartHeadliner()" onUnload="StopHeadliner()">
+
+      <p style="margin-right: -4; margin-top: 0; margin-bottom: 5; line-height:200%" align="justify">
+      <font style="font-size: 9pt" face="Arial" color="#FFFFFF">Nice to meet you 
+      online! A warm welcome to my personal web world - an account of all 
+      my deeds! Here is my humble endeavor to trace the old but lost friends and 
+      more over to get new lively friendships. &nbsp;This site is about me, my 
+      opinions, my perceptions and everything! There is much to discover and 
+      enjoy, so grab some time and take a wander through the pages of my cyber 
+      home. Please be have comments, even critic! </font></p>
+      <p style="margin-right: -4; margin-top: 0; margin-bottom: 5; line-height:200%" align="justify">
+      <font style="font-size: 9pt" face="Arial" color="#FFFFFF">Myself <b>
+      Jameskutty Thomas</b> (Pet name: Raju) from the village of Perumpuzha, Kollam, Kerala, 
+      India. But, now I am settled in Vyttila,  Ernakulam. Basically I am an 
+      <i>Electrical </i>Engineer from the 1987 batch of TKM College of Engineering, Kollam. My post graduation is in 
+      <i>Opto-Electronics &amp; Laser Technology </i>from Cochin University of 
+      Science &amp; Technology, Kochi.    With  29&nbsp; years experience as a professional Electrical 
+      Engineer, retired as <b>Electrical Inspector </b>from the 
+      <i><b>Department of Electrical Inspectorate, Government of Kerala</b></i>. 
+      Now, my intention is to share the experiences procured with Electrical &amp; 
+      Lightning Protection designs to the interested audience. </font></p>
+      <p style="margin-right: -4; margin-top: 0; margin-bottom: 5; line-height:200%" align="justify">
+      <span style="font-size: 9pt"><font face="Arial" color="#FFFFFF">My wife is
+      <b>Anitha James</b> and we are blessed with two children, boys; <b>
+      <span style="text-decoration: none">
+      <a href="daniel/index.php" style="text-decoration: none">
+      <font color="#FFFFFF">Daniel James</font></a></span> </b>and <b>
+      <a href="joseph/index.php" style="font-size: 9pt; text-decoration: none">
+      <font color="#FFFFFF">Joseph James</font></a>.</b></font></span><font style="font-size: 9pt" face="Arial" color="#FFFFFF">
+      </font></p>
+      <p style="margin-right: -4; margin-top: 0; margin-bottom: 5; line-height:200%" align="justify">
+      <font style="font-size: 9pt" face="Arial" color="#FFFFFF">I am well aware 
+      of the fact that my views will be different from yours. This is my way of 
+      looking at issues. Whenever I get neglected, won't struggle to survive. &nbsp;I 
+      will keep myself away from the spot, because I believe my time as the 
+      precious gift from God. &nbsp;I won't spare even a second, instead it will be 
+      made fruitful with effective utilization.&nbsp; I like to be rich in man power. 
+      I never repent about my past, since it was the knife sharpened me for the 
+      character. Always I like to be systematic in my works.</font><p>&nbsp;</td>
+	    <td valign=top height="23" bgcolor="#000000" align="left" width="128">
+            <p style="margin-top: 0">&nbsp;</p>
+            <p style="margin-top: 0; margin-bottom: 0">&nbsp;<SCRIPT LANGUAGE="JavaScript">
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Begin
+var Today=new Date();
+var ThisDay=Today.getDay();
+var ThisDate=Today.getDate();
+var ThisMonth=Today.getMonth()+1;
+var ThisYear=Today.getFullYear();  //included if you wish to insert the year
+function DayTxt (DayNumber) {
+var Day=new Array();
+Day[0]="Sunday";
+Day[1]="Monday";
+Day[2]="Tuesday";
+Day[3]="Wednesday";
+Day[4]="Thursday";
+Day[5]="Friday";
+Day[6]="Saturday";
+return Day[DayNumber];
+}
+var DayName=DayTxt(ThisDay);
+function MonthTxt (MonthNumber) {
+var Month=new Array();
+Month[1]="January";
+Month[2]="February";
+Month[3]="March";
+Month[4]="April";
+Month[5]="May";
+Month[6]="June";
+Month[7]="July";
+Month[8]="August";
+Month[9]="September";
+Month[10]="October";
+Month[11]="November";
+Month[12]="December";
+return Month[MonthNumber];
+}
+var MonthName=MonthTxt(ThisMonth);
+var d = new Date();
+var h = d.getHours();
+document.write("<TABLE BORDER=4 BGCOLOR=WHITE  WIDTH=60 HEIGHT=65 align=right>"+"<TD>"+"<p align=center>"+"<font size=-2 >"+DayName+"<br>"+"<font color=orangered size=+3 >"+ThisDate+"</font>"+"<br>"+MonthName+"<br>"+"</b>"+"</font>"+"</p>"+"</TD>"+"</TR>"+"</TABLE>");
+//  End -->
+            </script><p style="margin-top: 0">&nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="34" bgcolor="#000000" align="left" width="128">
+</td>
+	</tr>
+	<tr>
+	    <td valign=top height="28" bgcolor="#000000" align="left" width="649">
+      &nbsp;</td>
+	    <td valign=top height="28" bgcolor="#000000" align="left" width="128">
+            &nbsp;</td>
+	</tr>
+	<tr>
+	    <td valign=top height="28" bgcolor="#000000" align="left" width="649">
+      <p style="margin-top: 0; margin-bottom: 0" align="center"><b>
+    <font size="1" color="#00FFFF" face="Arial">Site Designed &amp; Maintained by 
+    Jameskutty Thomas</font></b><p align="center" style="margin-top: 0; margin-bottom: 0"> 
+      <b><font color="#00FFFF" face="Arial"><font style="font-size: 10pt">&copy;</font><font size="1"> 
+      2021-22</font></font></b></p></td>
+	    <td valign=top height="28" bgcolor="#000000" align="left" width="128">
+            &nbsp;</td>
+	</tr>
+	</table>
+
+
+        </td>
+        </tr>
+        </table>
+          </center>
+    </form>  
+           
+    </body></html></title>
