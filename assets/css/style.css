@@ -41,8 +41,12 @@ a {
 
 a:hover {
   color: #35e888;
-  background: rgb(5, 106, 221);
+  background: rgb(255, 255, 255);
   text-decoration: none;
+}
+
+.a1 a:hover {
+  background: rgb(5, 106, 221);
 }
 
 h1, h2, h3, h4, h5, h6 {
