@@ -219,7 +219,7 @@
       <p style="margin-top: 0; margin-bottom: 0" align="center"><b>
     <font size="1" color="#00FFFF" face="Arial">Site Designed &amp; Maintained by 
     Jameskutty Thomas</font></b><p style="margin-top: 0; margin-bottom: 0" align="center"><b>
-    <font color="#00FFFF" size="2">©
+    <font color="#00FFFF" size="2">ï¿½
     </font><font size="1" color="#00FFFF">2021-22</font></b></td>
   </tr>
   </table>
