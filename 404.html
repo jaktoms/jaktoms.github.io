@@ -1,3 +1,7 @@
 <script type="text/javascript">
-  window.location.replace(`https://jameskutty.info?url=${window.location.href}`)
+  if (window.location.href.contains("deptsheet.php")) {
+    window.location.replace("https://jameskutty.info/library#");
+  } else {
+    window.location.replace("https://jameskutty.info");
+  }
 </script>
