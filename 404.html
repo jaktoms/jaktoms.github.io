@@ -1,3 +1,7 @@
 <script type="text/javascript">
-    window.location.replace(`https://redirect.jameskutty.info=${window.location.href}`)
-</script>
+    if (window.location.href.contains("department.php")) {
+      window.location.replace("https://jameskutty.info/#library");
+    } else {
+      window.location.replace("https://jameskutty.info");
+    }
+  </script>
