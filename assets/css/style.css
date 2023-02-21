@@ -1232,3 +1232,9 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+.blogspot-icon {
+  height: 18px;
+  width: 18px;
+  background: rgb(119, 238, 8);
+}
