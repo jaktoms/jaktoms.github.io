@@ -637,7 +637,6 @@ section .container {
   background: rgba(255, 255, 255, 0.15);
   padding: 5px 15px;
   display: inline-block;
-  color: #f8f8f8;
   font-weight: 600;
   margin-bottom: 10px;
 }
