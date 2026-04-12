@@ -146,14 +146,7 @@ h6 {
 #header h2 span {
   font-weight: 700;
   text-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
-}
-
-#header h2 span:nth-child(odd) {
-  color: #00d4ff; /* Power Blue */
-}
-
-#header h2 span:nth-child(even) {
-  color: #ffff00; /* Lightning Yellow */
+  color: #ffff00; /* Electric Gold */
 }
 
 #header img {
