@@ -1463,7 +1463,7 @@ section .container {
   color: var(--primary-color) !important;
   line-height: 1.4 !important;
   margin-bottom: 12px;
-  text-align: left !important;
+  text-align: center !important;
   text-transform: none !important;
 }
 
