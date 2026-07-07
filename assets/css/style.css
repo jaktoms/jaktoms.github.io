@@ -717,6 +717,7 @@ section .container {
   font-family: "Poppins", sans-serif;
   color: #18d26e;
   margin-bottom: 10px;
+  text-align: left;
 }
 
 .resume .resume-item h5 {
