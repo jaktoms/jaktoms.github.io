@@ -1292,3 +1292,214 @@ section .container {
   width: 18px;
   background: rgb(119, 238, 8);
 }
+
+/*--------------------------------------------------------------
+# YouTube Grid Layout
+--------------------------------------------------------------*/
+.youtube-search-filter-wrapper {
+  margin-bottom: 30px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  width: 100%;
+}
+
+.youtube-search-container {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.youtube-search-input {
+  width: 100%;
+  padding: 12px 20px;
+  border: 1px solid rgba(0, 242, 255, 0.3);
+  border-radius: 30px;
+  font-size: 1rem;
+  background: rgba(0, 0, 0, 0.3);
+  color: var(--text-main);
+  transition: all 0.3s ease;
+}
+
+.youtube-search-input:focus {
+  outline: none;
+  border-color: var(--primary-color);
+  box-shadow: 0 0 10px rgba(0, 242, 255, 0.5);
+}
+
+.youtube-filter-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.youtube-filter-btn {
+  padding: 8px 20px;
+  border: 1px solid rgba(0, 242, 255, 0.3);
+  border-radius: 30px;
+  background: rgba(0, 0, 0, 0.3);
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.youtube-filter-btn:hover {
+  background: rgba(0, 242, 255, 0.1);
+  color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.youtube-filter-btn.active {
+  background: var(--primary-color);
+  color: #000;
+  border-color: var(--primary-color);
+  box-shadow: 0 0 15px var(--primary-color);
+  font-weight: 600;
+}
+
+.youtube-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 25px;
+  width: 100%;
+}
+
+.youtube-card {
+  background: var(--bg-glass);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.youtube-card:hover {
+  transform: translateY(-5px);
+  border-color: var(--primary-color);
+  box-shadow: 0 10px 30px rgba(0, 242, 255, 0.2);
+}
+
+.youtube-video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  background: #000;
+  cursor: pointer;
+}
+
+.youtube-video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.youtube-thumbnail {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.youtube-video-container:hover .youtube-thumbnail {
+  transform: scale(1.03);
+  filter: brightness(0.9);
+}
+
+.youtube-play-btn-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 68px;
+  height: 48px;
+  transition: transform 0.2s ease;
+  z-index: 2;
+}
+
+.youtube-play-btn-overlay svg {
+  width: 100%;
+  height: 100%;
+}
+
+.youtube-play-btn-overlay svg .youtube-play-btn-bg {
+  transition: fill 0.2s ease;
+}
+
+.youtube-video-container:hover .youtube-play-btn-overlay {
+  transform: translate(-50%, -50%) scale(1.1);
+}
+
+.youtube-video-container:hover .youtube-play-btn-overlay svg .youtube-play-btn-bg {
+  fill: #ff0000;
+  fill-opacity: 1;
+}
+
+.youtube-card-body {
+  padding: 20px;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.youtube-card-body h4 {
+  font-size: 1.05rem !important;
+  font-weight: 600;
+  color: var(--primary-color) !important;
+  line-height: 1.4 !important;
+  margin-bottom: 12px;
+  text-align: left !important;
+  text-transform: none !important;
+}
+
+.youtube-card-body p {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: #f9fcfa;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
+.youtube-tag {
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.tag-solar {
+  background: rgba(0, 242, 255, 0.1);
+  color: var(--primary-color);
+}
+
+.tag-lightning {
+  background: rgba(40, 167, 69, 0.15);
+  color: #28a745;
+}
+
+.tag-safety {
+  background: rgba(253, 126, 20, 0.15);
+  color: #fd7e14;
+}
+
+.tag-other {
+  background: rgba(139, 92, 246, 0.15);
+  color: var(--secondary-color);
+}
