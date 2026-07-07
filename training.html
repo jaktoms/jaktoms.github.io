@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Training - Jameskutty Thomas</title>
+  <meta content="Training gallery for AJ Electrical & Lightning Protection Consultancy." name="description">
+  <meta content="electrical safety training, lightning protection design, training pics, Jameskutty Thomas" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/aj.png" rel="icon">
+  <link href="assets/img/aj.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://s.pageclip.co/v1/pageclip.css" media="screen">
+
+  <style>
+    /* Premium Training Page Styles */
+    body::before {
+      content: "";
+      position: fixed;
+      background: url("assets/img/modern_face_bg.png") center center no-repeat;
+      background-size: cover;
+      left: 0;
+      right: 0;
+      top: 0;
+      height: 100vh;
+      width: 100vw;
+      z-index: -1;
+      filter: brightness(0.85);
+    }
+
+    .training-section {
+      margin-top: 110px;
+    }
+
+    .card-glass {
+      background: rgba(20, 20, 30, 0.55) !important;
+      backdrop-filter: blur(15px);
+      -webkit-backdrop-filter: blur(15px);
+      border: 1px solid rgba(255, 255, 255, 0.08) !important;
+      border-radius: 15px !important;
+      color: #fff;
+    }
+
+    .filter-pills {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin: 20px 0 35px 0;
+    }
+
+    .filter-pill {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      color: #ddd;
+      padding: 8px 20px;
+      border-radius: 30px;
+      font-size: 0.9rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    }
+
+    .filter-pill:hover {
+      background: rgba(255, 255, 255, 0.08);
+      color: #fff;
+    }
+
+    .filter-pill.active {
+      background: var(--primary-color);
+      color: #000;
+      border-color: var(--primary-color);
+      box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);
+      font-weight: 600;
+    }
+
+    .training-card {
+      background: rgba(20, 20, 30, 0.5);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+      border-radius: 14px;
+      overflow: hidden;
+      transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .training-card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 12px 25px rgba(0, 242, 255, 0.18);
+      border-color: rgba(0, 242, 255, 0.3);
+    }
+
+    .training-img-wrapper {
+      position: relative;
+      overflow: hidden;
+      padding-top: 66.67%; /* 3:2 Aspect Ratio */
+      background: rgba(0,0,0,0.2);
+    }
+
+    .training-img-wrapper img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.5s ease;
+      cursor: pointer;
+    }
+
+    .training-card:hover .training-img-wrapper img {
+      transform: scale(1.05);
+    }
+
+    .training-card-body {
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+    }
+
+    .training-card-title {
+      font-size: 1.15rem;
+      font-weight: 600;
+      color: #fff;
+      margin-bottom: 8px;
+      line-height: 1.4;
+    }
+
+    .training-card-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 12px;
+      font-size: 0.8rem;
+    }
+
+    .category-badge {
+      background: rgba(0, 242, 255, 0.1);
+      color: var(--primary-color);
+      border: 1px solid rgba(0, 242, 255, 0.2);
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-weight: 500;
+    }
+
+    .training-date {
+      color: var(--electric-gold);
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .training-card-desc {
+      font-size: 0.88rem;
+      color: #bbb;
+      line-height: 1.5;
+      margin-bottom: 15px;
+      flex-grow: 1;
+    }
+
+    .training-card-actions {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 1px solid rgba(255, 255, 255, 0.06);
+      padding-top: 12px;
+      margin-top: auto;
+    }
+
+    .btn-view-pic {
+      color: var(--primary-color);
+      font-size: 0.85rem;
+      font-weight: 600;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      cursor: pointer;
+    }
+
+    .btn-view-pic:hover {
+      color: var(--secondary-color);
+    }
+
+    /* Lightbox Modal */
+    .lightbox-modal {
+      display: none;
+      position: fixed;
+      z-index: 1050;
+      left: 0;
+      top: 0;
+      width: 100vw;
+      height: 100vh;
+      background: rgba(10, 10, 15, 0.95);
+      backdrop-filter: blur(8px);
+      justify-content: center;
+      align-items: center;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .lightbox-modal.show {
+      display: flex;
+      opacity: 1;
+    }
+
+    .lightbox-content-wrapper {
+      max-width: 90%;
+      max-height: 85%;
+      text-align: center;
+      position: relative;
+      transform: scale(0.9);
+      transition: transform 0.3s ease;
+    }
+
+    .lightbox-modal.show .lightbox-content-wrapper {
+      transform: scale(1);
+    }
+
+    .lightbox-img {
+      max-width: 100%;
+      max-height: 70vh;
+      border-radius: 8px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.8);
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .lightbox-caption {
+      color: #fff;
+      margin-top: 15px;
+    }
+
+    .lightbox-caption h4 {
+      font-weight: 600;
+      font-size: 1.25rem;
+      margin-bottom: 5px;
+    }
+
+    .lightbox-caption p {
+      color: #ccc;
+      font-size: 0.9rem;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    .lightbox-close {
+      position: absolute;
+      top: -45px;
+      right: 0;
+      color: #fff;
+      font-size: 32px;
+      cursor: pointer;
+      background: transparent;
+      border: none;
+      transition: color 0.2s;
+    }
+
+    .lightbox-close:hover {
+      color: var(--primary-color);
+    }
+
+    /* Empty State */
+    .gallery-empty {
+      text-align: center;
+      padding: 60px 20px;
+      border: 1px dashed rgba(255,255,255,0.06);
+      border-radius: 12px;
+      background: rgba(255,255,255,0.01);
+    }
+
+    .gallery-empty i {
+      font-size: 48px;
+      color: #444;
+      margin-bottom: 15px;
+    }
+
+    .gallery-empty p {
+      font-size: 1rem;
+      color: #777;
+    }
+
+    /* Styles for header-training to avoid main.js hash navigation conflicts */
+    #header-training {
+      height: 80px;
+      position: fixed;
+      left: 0;
+      top: 0;
+      right: 0;
+      background: var(--bg-dark);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      padding-top: 0;
+      align-items: center;
+      display: flex;
+      z-index: 997;
+    }
+    #header-training .social-links,
+    #header-training h2 {
+      display: none;
+    }
+    #header-training h1 {
+      margin-right: auto;
+      font-size: 36px;
+      margin: 0;
+      padding: 0;
+      line-height: 1;
+      font-weight: 700;
+      font-family: "Poppins", sans-serif;
+    }
+    #header-training h1 a {
+      color: #fff;
+    }
+    #header-training .container {
+      display: flex;
+      align-items: center;
+      width: 100%;
+    }
+    #header-training .navbar {
+      margin: 0;
+    }
+    @media (max-width: 768px) {
+      #header-training {
+        height: 60px;
+      }
+      #header-training h1 {
+        font-size: 26px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header-training">
+    <div class="container">
+      <h1><a href="index.html">Jameskutty Thomas</a></h1>
+      <nav id="navbar" class="navbar pb-0 a1">
+        <ul>
+          <li><a class="nav-link" href="index.html#header"><b>Home</b></a></li>
+          <li><a class="nav-link" href="index.html#about"><b>About</b></a></li>
+          <li><a class="nav-link" href="index.html#resume"><b>Resume</b></a></li>
+          <li><a class="nav-link" href="index.html#services"><b>Services</b></a></li>
+          <li><a class="nav-link active" href="training.html"><b>Training</b></a></li>
+          <li><a class="nav-link" href="index.html#library"><b>Library</b></a></li>
+          <li><a class="nav-link" href="index.html#downloads"><b>Downloads</b></a></li>
+          <li><a class="nav-link" href="index.html#links"><b>Links</b></a></li>
+          <li><a class="nav-link" href="index.html#contact"><b>Contact</b></a></li>
+          <li><a class="nav-link" href="index.html#youtube"><b>YouTube</b></a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ======= Training Page Content ======= -->
+  <main id="main">
+    <section id="training" class="training section-show training-section">
+      <div class="container">
+        
+        <div class="section-title">
+          <h2>Training</h2>
+          <p>Training Gallery</p>
+        </div>
+
+        <div class="row">
+          <!-- Full Width Gallery Grid -->
+          <div class="col-lg-12">
+            <!-- Filter Pills -->
+            <div class="filter-pills">
+              <button class="filter-pill active" onclick="filterGallery('all', this)">All</button>
+              <button class="filter-pill" onclick="filterGallery('safety', this)">Electrical Safety</button>
+              <button class="filter-pill" onclick="filterGallery('lightning', this)">Lightning Protection</button>
+              <button class="filter-pill" onclick="filterGallery('solar', this)">Solar PV</button>
+              <button class="filter-pill" onclick="filterGallery('technical', this)">HT/EHT/Generator</button>
+              <button class="filter-pill" onclick="filterGallery('other', this)">Others</button>
+            </div>
+
+            <!-- Event Group Heading -->
+            <h3 id="eventHeading" class="mb-4 mt-2 text-center text-md-start" style="font-weight: 600; font-family: 'Raleway', sans-serif; color: #fff; font-size: 1.4rem; border-left: 4px solid var(--primary-color); padding-left: 12px;">
+              Hindustan Organic Chemicals Ltd., Ambalamughal, Ernakulam
+            </h3>
+
+            <!-- Grid -->
+            <div class="row row-cols-1 row-cols-md-3 g-4" id="galleryGrid">
+              
+              <!-- Photo 1 -->
+              <div class="col gallery-item" data-category="safety">
+                <div class="training-card">
+                  <div class="training-img-wrapper" onclick="openLightbox('assets/img/training/hoc_1.jpg', 'Hindustan Organic Chemicals Ltd., Ambalamughal, Ernakulam', 'Safety Training session conducted for engineers and staff at Hindustan Organic Chemicals, Ambalamughal, Ernakulam.')">
+                    <img src="assets/img/training/hoc_1.jpg" alt="Hindustan Organic Chemicals Ltd., Ambalamughal, Ernakulam">
+                  </div>
+                  <div class="training-card-body">
+                    <div class="training-card-meta">
+                      <span class="category-badge">Electrical Safety</span>
+                    </div>
+                    <p class="training-card-desc">Safety Training session conducted for engineers and staff at Hindustan Organic Chemicals, Ambalamughal, Ernakulam.</p>
+                    <div class="training-card-actions">
+                      <span class="btn-view-pic" onclick="openLightbox('assets/img/training/hoc_1.jpg', 'Hindustan Organic Chemicals Ltd., Ambalamughal, Ernakulam', 'Safety Training session conducted for engineers and staff at Hindustan Organic Chemicals, Ambalamughal, Ernakulam.')">
+                        <i class="bi bi-zoom-in"></i> View Details
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Photo 2 -->
+              <div class="col gallery-item" data-category="safety">
+                <div class="training-card">
+                  <div class="training-img-wrapper" onclick="openLightbox('assets/img/training/hoc_2.jpg', 'Hindustan Organic Chemicals Ltd., Ambalamughal, Ernakulam', 'Interactive learning program and safety audit guidelines session at Hindustan Organic Chemicals, Ambalamughal, Ernakulam.')">
+                    <img src="assets/img/training/hoc_2.jpg" alt="Hindustan Organic Chemicals Ltd., Ambalamughal, Ernakulam">
+                  </div>
+                  <div class="training-card-body">
+                    <div class="training-card-meta">
+                      <span class="category-badge">Electrical Safety</span>
+                    </div>
+                    <p class="training-card-desc">Interactive learning program and safety audit guidelines session at Hindustan Organic Chemicals, Ambalamughal, Ernakulam.</p>
+                    <div class="training-card-actions">
+                      <span class="btn-view-pic" onclick="openLightbox('assets/img/training/hoc_2.jpg', 'Hindustan Organic Chemicals Ltd., Ambalamughal, Ernakulam', 'Interactive learning program and safety audit guidelines session at Hindustan Organic Chemicals, Ambalamughal, Ernakulam.')">
+                        <i class="bi bi-zoom-in"></i> View Details
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Photo 3 -->
+              <div class="col gallery-item" data-category="safety">
+                <div class="training-card">
+                  <div class="training-img-wrapper" onclick="openLightbox('assets/img/training/hoc_3.jpg', 'Hindustan Organic Chemicals Ltd., Ambalamughal, Ernakulam', 'Review of protective equipment and safety standards compliance at Hindustan Organic Chemicals, Ambalamughal, Ernakulam.')">
+                    <img src="assets/img/training/hoc_3.jpg" alt="Hindustan Organic Chemicals Ltd., Ambalamughal, Ernakulam">
+                  </div>
+                  <div class="training-card-body">
+                    <div class="training-card-meta">
+                      <span class="category-badge">Electrical Safety</span>
+                    </div>
+                    <p class="training-card-desc">Review of protective equipment and safety standards compliance at Hindustan Organic Chemicals, Ambalamughal, Ernakulam.</p>
+                    <div class="training-card-actions">
+                      <span class="btn-view-pic" onclick="openLightbox('assets/img/training/hoc_3.jpg', 'Hindustan Organic Chemicals Ltd., Ambalamughal, Ernakulam', 'Review of protective equipment and safety standards compliance at Hindustan Organic Chemicals, Ambalamughal, Ernakulam.')">
+                        <i class="bi bi-zoom-in"></i> View Details
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Photo 4 -->
+              <div class="col gallery-item" data-category="safety">
+                <div class="training-card">
+                  <div class="training-img-wrapper" onclick="openLightbox('assets/img/training/hoc_4.jpg', 'Hindustan Organic Chemicals Ltd., Ambalamughal, Ernakulam', 'Lightning safety systems and grounding discussions during training at Hindustan Organic Chemicals, Ambalamughal, Ernakulam.')">
+                    <img src="assets/img/training/hoc_4.jpg" alt="Hindustan Organic Chemicals Ltd., Ambalamughal, Ernakulam">
+                  </div>
+                  <div class="training-card-body">
+                    <div class="training-card-meta">
+                      <span class="category-badge">Electrical Safety</span>
+                    </div>
+                    <p class="training-card-desc">Lightning safety systems and grounding discussions during training at Hindustan Organic Chemicals, Ambalamughal, Ernakulam.</p>
+                    <div class="training-card-actions">
+                      <span class="btn-view-pic" onclick="openLightbox('assets/img/training/hoc_4.jpg', 'Hindustan Organic Chemicals Ltd., Ambalamughal, Ernakulam', 'Lightning safety systems and grounding discussions during training at Hindustan Organic Chemicals, Ambalamughal, Ernakulam.')">
+                        <i class="bi bi-zoom-in"></i> View Details
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Photo 5 -->
+              <div class="col gallery-item" data-category="safety">
+                <div class="training-card">
+                  <div class="training-img-wrapper" onclick="openLightbox('assets/img/training/hoc_1.jpg', 'Hindustan Organic Chemicals Ltd., Ambalamughal, Ernakulam', 'Summary and Q&A session with safety inspectors at Hindustan Organic Chemicals, Ambalamughal, Ernakulam.')">
+                    <img src="assets/img/training/hoc_1.jpg" alt="Hindustan Organic Chemicals Ltd., Ambalamughal, Ernakulam">
+                  </div>
+                  <div class="training-card-body">
+                    <div class="training-card-meta">
+                      <span class="category-badge">Electrical Safety</span>
+                    </div>
+                    <p class="training-card-desc">Summary and Q&A session with safety inspectors at Hindustan Organic Chemicals, Ambalamughal, Ernakulam.</p>
+                    <div class="training-card-actions">
+                      <span class="btn-view-pic" onclick="openLightbox('assets/img/training/hoc_1.jpg', 'Hindustan Organic Chemicals Ltd., Ambalamughal, Ernakulam', 'Summary and Q&A session with safety inspectors at Hindustan Organic Chemicals, Ambalamughal, Ernakulam.')">
+                        <i class="bi bi-zoom-in"></i> View Details
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+            <!-- Empty State -->
+            <div class="gallery-empty" id="galleryEmpty" style="display: none;">
+              <i class="bi bi-image"></i>
+              <p>No training photos found for this category.</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <!-- Lightbox Modal -->
+  <div class="lightbox-modal" id="lightboxModal" onclick="closeLightbox()">
+    <button class="lightbox-close" onclick="closeLightbox()">&times;</button>
+    <div class="lightbox-content-wrapper" onclick="event.stopPropagation()">
+      <img id="lightboxImg" class="lightbox-img" src="" alt="Zoomed Photo">
+      <div class="lightbox-caption">
+        <h4 id="lightboxTitle">Event Title</h4>
+        <div class="d-flex justify-content-center gap-3 mb-2" style="font-size: 0.85rem;">
+          <span class="category-badge" id="lightboxCategory">Category</span>
+        </div>
+        <p id="lightboxDesc">Description text will go here.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="credits pb-4 text-center mt-5" style="border-top: 1px solid rgba(255,255,255,0.06); padding-top: 20px;">
+    Designed by <a href="https://jameskutty.info/">Jameskutty Thomas</a>
+  </div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+  <script>
+    // Lightbox Modal Controls
+    const openLightbox = (imageSrc, title, desc) => {
+      document.getElementById('lightboxImg').src = imageSrc;
+      document.getElementById('lightboxTitle').innerText = title;
+      document.getElementById('lightboxDesc').innerText = desc || 'No description provided.';
+      
+      document.getElementById('lightboxCategory').innerText = "Electrical Safety Training";
+
+      const modal = document.getElementById('lightboxModal');
+      modal.style.display = 'flex';
+      modal.offsetHeight; // force reflow
+      modal.classList.add('show');
+    };
+
+    const closeLightbox = () => {
+      const modal = document.getElementById('lightboxModal');
+      modal.classList.remove('show');
+      setTimeout(() => {
+        modal.style.display = 'none';
+      }, 300);
+    };
+
+    // Filter gallery items
+    const filterGallery = (category, pillElement) => {
+      // Update active pill styling
+      const pills = document.querySelectorAll('.filter-pill');
+      pills.forEach(p => p.classList.remove('active'));
+      pillElement.classList.add('active');
+
+      const items = document.querySelectorAll('.gallery-item');
+      const heading = document.getElementById('eventHeading');
+      const emptyState = document.getElementById('galleryEmpty');
+      const grid = document.getElementById('galleryGrid');
+      
+      let showHeading = false;
+      let visibleCount = 0;
+
+      items.forEach(item => {
+        const itemCat = item.getAttribute('data-category');
+        if (category === 'all' || itemCat === category) {
+          item.style.display = 'block';
+          visibleCount++;
+          if (itemCat === 'safety') showHeading = true;
+        } else {
+          item.style.display = 'none';
+        }
+      });
+
+      // Toggle heading display
+      if (showHeading && (category === 'all' || category === 'safety')) {
+        heading.style.display = 'block';
+      } else {
+        heading.style.display = 'none';
+      }
+
+      // Toggle empty state
+      if (visibleCount === 0) {
+        emptyState.style.display = 'block';
+        grid.style.display = 'none';
+      } else {
+        emptyState.style.display = 'none';
+        grid.style.display = 'flex';
+      }
+    };
+
+    // Initialize with default state
+    window.addEventListener('DOMContentLoaded', () => {
+      // Trigger gallery filter initial load to set heading state correctly
+      const activePill = document.querySelector('.filter-pill.active');
+      if (activePill) {
+        filterGallery('all', activePill);
+      }
+    });
+  </script>
+</body>
+
+</html>
