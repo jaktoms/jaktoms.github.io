@@ -21,9 +21,14 @@
         displayError(thisForm, 'The form action property is not set!')
         return;
       }
-      // thisForm.querySelector('.loading').classList.add('d-block');
-      thisForm.querySelector('.error-message').classList.remove('d-block');
-      thisForm.querySelector('.sent-message').classList.remove('d-block');
+      
+      let loadingEl = thisForm.querySelector('.loading');
+      let errorEl = thisForm.querySelector('.error-message');
+      let sentEl = thisForm.querySelector('.sent-message');
+
+      if (loadingEl) loadingEl.classList.add('d-block');
+      if (errorEl) errorEl.classList.remove('d-block');
+      if (sentEl) sentEl.classList.remove('d-block');
 
       let formData = new FormData( thisForm );
 
@@ -50,26 +55,39 @@
   });
 
   function php_email_form_submit(thisForm, action, formData) {
-    return;
+    let loadingEl = thisForm.querySelector('.loading');
+    let sentEl = thisForm.querySelector('.sent-message');
+
+    let object = {};
+    formData.forEach((value, key) => {
+      object[key] = value;
+    });
+    // Disable external captchas for smooth AJAX submission
+    object['_captcha'] = 'false';
+    let json = JSON.stringify(object);
+
     fetch(action, {
       method: 'POST',
-      body: formData,
-      headers: {'X-Requested-With': 'XMLHttpRequest'}
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+      },
+      body: json
     })
     .then(response => {
       if( response.ok ) {
-        return response.text()
+        return response.json();
       } else {
         throw new Error(`${response.status} ${response.statusText} ${response.url}`); 
       }
     })
     .then(data => {
-      thisForm.querySelector('.loading').classList.remove('d-block');
-      if (data.trim() == 'OK') {
-        thisForm.querySelector('.sent-message').classList.add('d-block');
+      if (loadingEl) loadingEl.classList.remove('d-block');
+      if (data.success === 'true' || data.success === true) {
+        if (sentEl) sentEl.classList.add('d-block');
         thisForm.reset(); 
       } else {
-        throw new Error(data ? data : 'Form submission failed and no error message returned from: ' + action); 
+        throw new Error(data.message ? data.message : 'Form submission failed and no error message returned from: ' + action); 
       }
     })
     .catch((error) => {
@@ -78,9 +96,13 @@
   }
 
   function displayError(thisForm, error) {
-    thisForm.querySelector('.loading').classList.remove('d-block');
-    thisForm.querySelector('.error-message').innerHTML = error;
-    thisForm.querySelector('.error-message').classList.add('d-block');
+    let loadingEl = thisForm.querySelector('.loading');
+    let errorEl = thisForm.querySelector('.error-message');
+    if (loadingEl) loadingEl.classList.remove('d-block');
+    if (errorEl) {
+      errorEl.innerHTML = error;
+      errorEl.classList.add('d-block');
+    }
   }
 
 })();
