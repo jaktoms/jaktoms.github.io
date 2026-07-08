@@ -783,8 +783,37 @@
   <script src="assets/js/main.js"></script>
 
   <script>
+    // Lightbox Modal Zoom and Pan state
+    let zoomScale = 1;
+    let panX = 0;
+    let panY = 0;
+    let isDragging = false;
+    let startX = 0;
+    let startY = 0;
+
+    const updateTransform = () => {
+      const img = document.getElementById('lightboxImg');
+      if (img) {
+        img.style.transform = `translate(${panX}px, ${panY}px) scale(${zoomScale})`;
+      }
+    };
+
+    const resetZoom = () => {
+      zoomScale = 1;
+      panX = 0;
+      panY = 0;
+      isDragging = false;
+      const img = document.getElementById('lightboxImg');
+      if (img) {
+        img.style.transform = 'none';
+        img.style.cursor = 'zoom-in';
+        img.style.transition = 'transform 0.2s ease';
+      }
+    };
+
     // Lightbox Modal Controls
     const openLightbox = (imageSrc, title, desc) => {
+      resetZoom();
       document.getElementById('lightboxImg').src = imageSrc;
       document.getElementById('lightboxTitle').innerText = title;
       
@@ -809,6 +838,7 @@
       modal.classList.remove('show');
       setTimeout(() => {
         modal.style.display = 'none';
+        resetZoom();
       }, 300);
     };
 
@@ -863,6 +893,61 @@
       const activePill = document.querySelector('.filter-pill.active');
       if (activePill) {
         filterGallery('all', activePill);
+      }
+
+      // Add mouse scroll wheel zoom & drag pan to the lightbox image
+      const img = document.getElementById('lightboxImg');
+      if (img) {
+        img.addEventListener('wheel', (e) => {
+          e.preventDefault();
+          
+          const zoomFactor = 0.15;
+          if (e.deltaY < 0) {
+            zoomScale += zoomFactor;
+          } else {
+            zoomScale -= zoomFactor;
+          }
+          
+          zoomScale = Math.max(1, Math.min(5, zoomScale));
+          
+          if (zoomScale === 1) {
+            panX = 0;
+            panY = 0;
+            img.style.cursor = 'zoom-in';
+            img.style.transition = 'transform 0.2s ease-out';
+          } else {
+            img.style.cursor = 'grab';
+            img.style.transition = 'none';
+          }
+          
+          updateTransform();
+        }, { passive: false });
+
+        img.addEventListener('mousedown', (e) => {
+          if (zoomScale > 1) {
+            isDragging = true;
+            startX = e.clientX - panX;
+            startY = e.clientY - panY;
+            img.style.cursor = 'grabbing';
+            img.style.transition = 'none';
+            e.preventDefault(); // prevent native image dragging/ghosting
+          }
+        });
+
+        window.addEventListener('mousemove', (e) => {
+          if (isDragging) {
+            panX = e.clientX - startX;
+            panY = e.clientY - startY;
+            updateTransform();
+          }
+        });
+
+        window.addEventListener('mouseup', () => {
+          if (isDragging) {
+            isDragging = false;
+            img.style.cursor = 'grab';
+          }
+        });
       }
     });
   </script>
