@@ -255,6 +255,8 @@ h6 {
 
   #header.header-top h1 {
     font-size: 26px;
+    position: relative;
+    z-index: 1001;
   }
 }
 
